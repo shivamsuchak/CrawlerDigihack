@@ -1,1342 +1,591 @@
-[
-    {
-        "url": "https://www.infosys.com/industries/",
-        "title": "Business Consulting Services & Technology Services Offered at Infosys",
-        "description": "Infosys helps enterprises become business-ready for industry-specific technology services, evolving at the speed of tomorrow. View our industry solutions.",
-        "content": "",
-        "headings": [
-            "Experience",
-            "Insight",
-            "Innovate",
-            "Accelerate",
-            "Assure",
-            "Application Development and Maintenance",
-            "Business Process Management",
-            "Consulting Services",
-            "Incubating Emerging Offerings",
-            "Industries",
-            "Our Offerings",
-            "Insights",
-            "feature",
-            "blog",
-            "white paper",
-            "blog",
-            "Features & Opinions",
-            "White Paper",
-            "Features & Opinions",
-            "What's New",
-            "Success Stories",
-            "Privacy Preference Centre for cookies",
-            " Manage Consent Preferences",
-            "Strictly Necessary Cookies",
-            "Performance Cookies",
-            "Functional Cookies",
-            "Targeting Cookies",
-            "Cookie List"
-        ],
-        "links": [
-            {
-                "text": "Skip to main content",
-                "href": "#main-cnt"
-            },
-            {
-                "text": "Skip to footer",
-                "href": "#footer"
-            },
-            {
-                "text": " \n\n ",
-                "href": "https://www.infosys.com"
-            },
-            {
-                "text": "Navigate your next",
-                "href": "/navigate-your-next.html"
-            },
-            {
-                "text": "Infosys Knowledge Institute",
-                "href": "/iki.html"
-            },
-            {
-                "text": "Investors",
-                "href": "/investors.html"
-            },
-            {
-                "text": "Careers",
-                "href": "/careers/"
-            },
-            {
-                "text": "Infosys and ServiceNow Expand AI Collaboration to Revolutionize Service Delivery",
-                "href": "/newsroom/press-releases/2024/expand-ai-collaboration-revolutionize-service-delivery.html"
-            },
-            {
-                "text": "67% of Global Enterprises Have Sophisticated Cloud Strategies, Yet Less Than 10% Have Fully Integrated AI, says MIT Technology Review Insights Report with Infosys Cobalt",
-                "href": "/newsroom/press-releases/2024/reimagining-cloud-strategy-ai-first-enterprises.html"
-            },
-            {
-                "text": "Infosys Collaborates with TDC Net to Accelerate Digital Transformation",
-                "href": "/newsroom/press-releases/2024/collaborates-accelerate-digital-transformation.html"
-            },
-            {
-                "text": "Financial Information for the First Quarter ended June 30, 2024",
-                "href": "/investors/reports-filings/quarterly-results/2024-2025/q1.html"
-            },
-            {
-                "text": "Infosys Foundation USA joins forces with Congressional App Challenge to Champion STEM Education across the U.S.",
-                "href": "/newsroom/press-releases/2024/congressional-app-challenge.html"
-            },
-            {
-                "text": "Generative AI: Enabling Future-Ready Enterprises for Financial Services",
-                "href": "/newsroom/events/2024/ai-financial-services.html"
-            },
-            {
-                "text": "Infosys is the Main Partner for Net Zero Markets at ONS 2024",
-                "href": "/newsroom/events/2024/net-zero-markets.html"
-            },
-            {
-                "text": "Infosys at Oracle CloudWorld 2024: Transform with Cloud, Data & AI ",
-                "href": "/newsroom/events/2024/oracle-cloudworld-2024.html"
-            },
-            {
-                "text": "Infosys at MoneyLIVE North America in Chicago",
-                "href": "/newsroom/events/2024/money-live-north-america.html"
-            },
-            {
-                "text": "Responsible AI: Legal Conference",
-                "href": "/newsroom/events/2024/responsible-ai-legal-conference.html"
-            },
-            {
-                "text": "The rise of the new-age cyber-heroes",
-                "href": "/infosys-stories/living-our-purpose/new-age-cyber-heroes.html"
-            },
-            {
-                "text": "Change, Challenge, Chance and Seeking Potential",
-                "href": "/infosys-stories/living-our-purpose/change-challenge-seeking-potential.html"
-            },
-            {
-                "text": "Building fun into cybersecurity? Gamification is the way",
-                "href": "/infosys-stories/living-our-purpose/cybersecurity-gamification-way.html"
-            },
-            {
-                "text": "What you seek is seeking you",
-                "href": "/infosys-stories/nurturing-our-people/abdul-story.html"
-            },
-            {
-                "text": "Mission Maatram: Alleviating poverty through education",
-                "href": "/infosys-stories/nurturing-our-people/mission-maatram.html"
-            },
-            {
-                "text": "\n\n\n\n",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "  ",
-                "href": "/"
-            },
-            {
-                "text": "Navigate your next  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Industries  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Services  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Platforms  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Infosys Living Labs ",
-                "href": "https://living-labs.infosys.com/"
-            },
-            {
-                "text": "Infosys Knowledge Institute  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "About Us  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Investors  ",
-                "href": "/investors.html"
-            },
-            {
-                "text": "Careers  ",
-                "href": "/careers/"
-            },
-            {
-                "text": "Newsroom  ",
-                "href": "/newsroom.html"
-            },
-            {
-                "text": "Contact Us  ",
-                "href": "/contact.html"
-            },
-            {
-                "text": "\n\n\n\n",
-                "href": "https://www.linkedin.com/company/infosys"
-            },
-            {
-                "text": "\n\n\n\n",
-                "href": "https://www.twitter.com/infosys"
-            },
-            {
-                "text": "\n\n\n\n",
-                "href": "https://www.facebook.com/Infosys"
-            },
-            {
-                "text": "\n\n\n\n",
-                "href": "https://www.youtube.com/user/Infosys"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "\nBeing Resilient. That's Live Enterprise.\n",
-                "href": "/navigate-your-next/being-resilient.html"
-            },
-            {
-                "text": "\n\nDigital Core Capabilities\n\n",
-                "href": "/navigate-your-next/digital-capabilities.html"
-            },
-            {
-                "text": "\n\nDigital Operating Model\n\n",
-                "href": "/navigate-your-next/digital-operating-models.html"
-            },
-            {
-                "text": "\n\nEmpowering Talent Transformations\n\n",
-                "href": "/navigate-your-next/talent-transformations.html"
-            },
-            {
-                "text": "\n\nTales of Transformation\n\n",
-                "href": "/navigate-your-next/tales-of-transformation.html"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Aerospace & Defense",
-                "href": "/industries/aerospace-defense.html"
-            },
-            {
-                "text": "Agriculture",
-                "href": "/industries/agriculture.html"
-            },
-            {
-                "text": "Automotive",
-                "href": "/industries/automotive.html"
-            },
-            {
-                "text": "Chemical\n                    Manufacturing",
-                "href": "/industries/chemical-manufacturing.html"
-            },
-            {
-                "text": "Communication\n                    Services",
-                "href": "/industries/communication-services.html"
-            },
-            {
-                "text": "Consumer\n                    Packaged Goods",
-                "href": "/industries/consumer-packaged-goods.html"
-            },
-            {
-                "text": "Education",
-                "href": "/industries/education.html"
-            },
-            {
-                "text": "Engineering\n                    Procurement & Construction",
-                "href": "/industries/engineering-procurement-construction.html"
-            },
-            {
-                "text": "Financial\n                    Services",
-                "href": "/industries/financial-services.html"
-            },
-            {
-                "text": "Healthcare",
-                "href": "/industries/healthcare.html"
-            },
-            {
-                "text": "High\n                    Technology",
-                "href": "/industries/high-technology.html"
-            },
-            {
-                "text": "Industrial\n                    Manufacturing",
-                "href": "/industries/industrial-manufacturing.html"
-            },
-            {
-                "text": "Information Services\n                    & Publishing",
-                "href": "/industries/publishing.html"
-            },
-            {
-                "text": "Insurance",
-                "href": "/industries/insurance.html"
-            },
-            {
-                "text": "Life Sciences",
-                "href": "/industries/life-sciences.html"
-            },
-            {
-                "text": "Logistics\n                    & Distribution",
-                "href": "/industries/logistics-distribution.html"
-            },
-            {
-                "text": "Media and\n                    Entertainment",
-                "href": "/industries/media-entertainment.html"
-            },
-            {
-                "text": "Mining",
-                "href": "/industries/mining.html"
-            },
-            {
-                "text": "Oil and Gas",
-                "href": "/industries/oil-and-gas.html"
-            },
-            {
-                "text": "Private Equity",
-                "href": "/industries/private-equity.html"
-            },
-            {
-                "text": "Professional\n                    Services",
-                "href": "/industries/professional-services.html"
-            },
-            {
-                "text": "Public\n                    Sector",
-                "href": "/industries/public-sector.html"
-            },
-            {
-                "text": "Retail",
-                "href": "/industries/retail.html"
-            },
-            {
-                "text": "Travel and\n                    Hospitality",
-                "href": "/industries/travel-hospitality.html"
-            },
-            {
-                "text": "Utilities",
-                "href": "/industries/utilities.html"
-            },
-            {
-                "text": "Waste\n                    Management",
-                "href": "/industries/waste-management.html"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Infosys Aster",
-                "href": "/aster.html"
-            },
-            {
-                "text": "Digital Marketing",
-                "href": "/services/digital-marketing.html"
-            },
-            {
-                "text": "Digital Commerce",
-                "href": "/services/digital-commerce.html"
-            },
-            {
-                "text": "Digital Interactions",
-                "href": "/services/digital-interaction.html"
-            },
-            {
-                "text": "Digital Workplace\n                            Services",
-                "href": "/services/digital-workplace-services.html"
-            },
-            {
-                "text": "Digital Experience",
-                "href": "/services/digital-experience.html"
-            },
-            {
-                "text": "Infosys Metaverse Foundry",
-                "href": "/services/metaverse.html"
-            },
-            {
-                "text": "Infosys\n                            Topaz",
-                "href": "/services/data-ai-topaz.html"
-            },
-            {
-                "text": "Data Analytics and AI",
-                "href": "/services/data-analytics.html"
-            },
-            {
-                "text": "Applied AI",
-                "href": "/services/applied-ai.html"
-            },
-            {
-                "text": "Infosys Generative AI",
-                "href": "/services/generative-ai.html"
-            },
-            {
-                "text": "Infosys Sustainability Services",
-                "href": "/services/sustainability-services.html"
-            },
-            {
-                "text": "Blockchain",
-                "href": "/services/blockchain.html"
-            },
-            {
-                "text": "Engineering Services",
-                "href": "/services/engineering-services.html"
-            },
-            {
-                "text": "Internet of Things (IoT)",
-                "href": "/services/engineering-services/service-offerings/internet-of-things.html"
-            },
-            {
-                "text": "Enterprise Agile DevOps ",
-                "href": "/services/agile-devops.html"
-            },
-            {
-                "text": "API Economy &\n                            Microservices",
-                "href": "/services/api-economy.html"
-            },
-            {
-                "text": "Application Modernization",
-                "href": "/services/application-modernization.html"
-            },
-            {
-                "text": "Cloud - Infosys Cobalt",
-                "href": "/services/cloud-cobalt.html"
-            },
-            {
-                "text": "Digital Process\n                            Automation",
-                "href": "/services/digital-process-automation.html"
-            },
-            {
-                "text": "Digital Supply Chain",
-                "href": "/services/digital-supply-chain.html"
-            },
-            {
-                "text": "Microsoft\n                            Business Application Services",
-                "href": "/services/microsoft-dynamics.html"
-            },
-            {
-                "text": "Microsoft Cloud Business",
-                "href": "/services/microsoft-cloud-business.html"
-            },
-            {
-                "text": "Oracle",
-                "href": "/services/oracle.html"
-            },
-            {
-                "text": "SAP",
-                "href": "/services/sap.html"
-            },
-            {
-                "text": "Salesforce",
-                "href": "/services/salesforce.html"
-            },
-            {
-                "text": "Service Experience\n                            Transformation",
-                "href": "/services/experience-transformation.html"
-            },
-            {
-                "text": "Energy Transition",
-                "href": "/services/energy-transition.html"
-            },
-            {
-                "text": "Cyber\n                            Security",
-                "href": "/services/cyber-security.html"
-            },
-            {
-                "text": "Quality Engineering",
-                "href": "/services/quality-engineering.html"
-            },
-            {
-                "text": " \nApplication Development and Maintenance\n",
-                "href": "/services/application-development-maintenance.html"
-            },
-            {
-                "text": " \nBusiness Process Management\n",
-                "href": "https://www.infosysbpm.com/Pages/index.aspx"
-            },
-            {
-                "text": " \nConsulting Services\n",
-                "href": "/services/consulting.html"
-            },
-            {
-                "text": " \nIncubating Emerging Offerings\n",
-                "href": "/services/incubating-emerging-technologies.html"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "EdgeVerve",
-                "href": "https://www.edgeverve.com/"
-            },
-            {
-                "text": "Infosys\n                    Finacle",
-                "href": "https://www.edgeverve.com/finacle/"
-            },
-            {
-                "text": "Infosys Live Enterprise Suite",
-                "href": "/navigate-your-next/live-enterprise-suite.html"
-            },
-            {
-                "text": "Infosys\n                    Cortex",
-                "href": "/products-and-platforms/cortex.html"
-            },
-            {
-                "text": "Infosys\n                    Meridian",
-                "href": "/products-and-platforms/meridian.html"
-            },
-            {
-                "text": "Panaya",
-                "href": "https://www.panaya.com"
-            },
-            {
-                "text": "Infosys Equinox",
-                "href": "https://www.infosysequinox.com/"
-            },
-            {
-                "text": "Infosys\n                    Wingspan",
-                "href": "/products-and-platforms/wingspan.html"
-            },
-            {
-                "text": "Infosys\n                    HELIX",
-                "href": "/products-and-platforms/helix.html"
-            },
-            {
-                "text": "Infosys Polycloud",
-                "href": "/products-and-platforms/polycloud.html"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Overview",
-                "href": "/iki.html"
-            },
-            {
-                "text": "Connect",
-                "href": "/iki/iki-connect-with-us.html"
-            },
-            {
-                "text": "About Us",
-                "href": "/iki/our-people.html"
-            },
-            {
-                "text": "Learn",
-                "href": "/iki/learn.html"
-            },
-            {
-                "text": "Research",
-                "href": "/iki/insights/research.html"
-            },
-            {
-                "text": "Perspectives",
-                "href": "/iki/insights.html"
-            },
-            {
-                "text": "Podcasts",
-                "href": "/iki/podcast.html"
-            },
-            {
-                "text": "Videos",
-                "href": "/iki/insights/videos.html"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Overview",
-                "href": "/about.html"
-            },
-            {
-                "text": "History",
-                "href": "/about/history.html"
-            },
-            {
-                "text": "ESG",
-                "href": "/about/esg.html"
-            },
-            {
-                "text": "Management\n                    Profiles",
-                "href": "/about/management-profiles.html"
-            },
-            {
-                "text": "Infosys Knowledge\n                    Institute",
-                "href": "/iki.html"
-            },
-            {
-                "text": "Infosys Stories",
-                "href": "/infosys-stories.html"
-            },
-            {
-                "text": "Champions Evolve",
-                "href": "/championsevolve.html"
-            },
-            {
-                "text": "Infosys Springboard",
-                "href": "/about/springboard.html"
-            },
-            {
-                "text": "Subsidiaries",
-                "href": "/about/subsidiaries.html"
-            },
-            {
-                "text": "Clients Speak",
-                "href": "/about/clients-speak.html"
-            },
-            {
-                "text": "Alliances",
-                "href": "/about/alliances.html"
-            },
-            {
-                "text": "Innovation Fund",
-                "href": "/about/innovation-fund.html"
-            },
-            {
-                "text": "Infosys Innovation\n                    Network (IIN)",
-                "href": "/about/innovation-network.html"
-            },
-            {
-                "text": "Diversity Equity\n                    Inclusion",
-                "href": "/about/diversity-inclusion.html"
-            },
-            {
-                "text": "Awards",
-                "href": "/about/awards.html"
-            },
-            {
-                "text": "Analyst Reports",
-                "href": "/analyst-speak.html"
-            },
-            {
-                "text": "Tennis",
-                "href": "#tennismenu"
-            },
-            {
-                "text": "All Partnerships",
-                "href": "/tennis.html"
-            },
-            {
-                "text": "Australian Open",
-                "href": "/australian-open.html"
-            },
-            {
-                "text": "Roland-Garros",
-                "href": "/roland-garros.html"
-            },
-            {
-                "text": "ATP",
-                "href": "/atp.html"
-            },
-            {
-                "text": " International\n                      Tennis Hall of Fame ",
-                "href": "/ithf.html"
-            },
-            {
-                "text": "Formula E",
-                "href": "/formulae.html"
-            },
-            {
-                "text": "Bloomberg\n                    Media",
-                "href": "/bloomberg.html"
-            },
-            {
-                "text": "Madison Square\n                    Garden",
-                "href": "/madison-square-garden.html"
-            },
-            {
-                "text": "The Economist\n                    Group",
-                "href": "/the-sustainability-project.html"
-            },
-            {
-                "text": "Dow Jones",
-                "href": "/dow-jones.html"
-            },
-            {
-                "text": "Financial Times",
-                "href": "/financial-times.html"
-            },
-            {
-                "text": "The Cloud Hub",
-                "href": "/cloud-hub.html"
-            },
-            {
-                "text": "\n\t\t\t\t\t\t\t  \n                                    Industries\n                                    \n                                       \n",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Aerospace & Defence",
-                "href": "/industries/aerospace-defense.html"
-            },
-            {
-                "text": "Agriculture",
-                "href": "/industries/agriculture.html"
-            },
-            {
-                "text": "Automotive",
-                "href": "/industries/automotive.html"
-            },
-            {
-                "text": "Chemical Manufacturing",
-                "href": "/industries/chemical-manufacturing.html"
-            },
-            {
-                "text": "Communication Services",
-                "href": "/industries/communication-services.html"
-            },
-            {
-                "text": "Consumer Packaged Goods",
-                "href": "/industries/consumer-packaged-goods.html"
-            },
-            {
-                "text": "Education",
-                "href": "/industries/education.html"
-            },
-            {
-                "text": "Engineering Procurement & Construction ",
-                "href": "/industries/engineering-procurement-construction.html"
-            },
-            {
-                "text": "Financial Services",
-                "href": "/industries/financial-services.html"
-            },
-            {
-                "text": "Healthcare",
-                "href": "/industries/healthcare.html"
-            },
-            {
-                "text": "High Technology",
-                "href": "/industries/high-technology.html"
-            },
-            {
-                "text": "Industrial Manufacturing",
-                "href": "/industries/industrial-manufacturing.html"
-            },
-            {
-                "text": "Information Services & Publishing",
-                "href": "/industries/publishing.html"
-            },
-            {
-                "text": "Insurance",
-                "href": "/industries/insurance.html"
-            },
-            {
-                "text": "Life Sciences",
-                "href": "/industries/life-sciences.html"
-            },
-            {
-                "text": "Logistics & Distribution",
-                "href": "/industries/logistics-distribution.html"
-            },
-            {
-                "text": "Media and Entertainment",
-                "href": "/industries/media-entertainment.html"
-            },
-            {
-                "text": "Mining",
-                "href": "/industries/mining.html"
-            },
-            {
-                "text": "Oil and Gas",
-                "href": "/industries/oil-and-gas.html"
-            },
-            {
-                "text": "Private Equity",
-                "href": "/industries/private-equity.html"
-            },
-            {
-                "text": "Professional Services",
-                "href": "/industries/professional-services.html"
-            },
-            {
-                "text": "Public Sector",
-                "href": "/industries/public-sector.html"
-            },
-            {
-                "text": "Retail",
-                "href": "/industries/retail.html"
-            },
-            {
-                "text": "Travel and Hospitality",
-                "href": "/industries/travel-hospitality.html"
-            },
-            {
-                "text": "Utilities",
-                "href": "/industries/utilities.html"
-            },
-            {
-                "text": "Waste Management",
-                "href": "/industries/waste-management.html"
-            },
-            {
-                "text": "\n\n",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "\n\n",
-                "href": "javascript:void(0)"
-            },
-            {
-                "text": "\n\n",
-                "href": "javascript:void(0)"
-            },
-            {
-                "text": "\n\n",
-                "href": "javascript:void(0)"
-            },
-            {
-                "text": " Let's talk ",
-                "href": "/contact/request-for-services.html"
-            },
-            {
-                "text": "learn more",
-                "href": "/industries/utilities/features-opinions/reduce-cost-increase-agility.html"
-            },
-            {
-                "text": "learn more",
-                "href": "/industries/utilities/case-studies/simplify-invoicing-data-management.html"
-            },
-            {
-                "text": "Learn more about our digital navigation framework.",
-                "href": "/navigate-your-next/digital-operating-models.html"
-            },
-            {
-                "text": "Aerospace & Defence",
-                "href": "/industries/aerospace-defense.html"
-            },
-            {
-                "text": "Agriculture",
-                "href": "/industries/agriculture.html"
-            },
-            {
-                "text": "Automotive",
-                "href": "/industries/automotive.html"
-            },
-            {
-                "text": "Chemical Manufacturing",
-                "href": "/industries/chemical-manufacturing.html"
-            },
-            {
-                "text": "Communication Services",
-                "href": "/industries/communication-services.html"
-            },
-            {
-                "text": "Consumer Packaged Goods",
-                "href": "/industries/consumer-packaged-goods.html"
-            },
-            {
-                "text": "Education",
-                "href": "/industries/education.html"
-            },
-            {
-                "text": "Engineering Procurement & Construction ",
-                "href": "/industries/engineering-procurement-construction.html"
-            },
-            {
-                "text": "Financial Services",
-                "href": "/industries/financial-services.html"
-            },
-            {
-                "text": "Healthcare",
-                "href": "/industries/healthcare.html"
-            },
-            {
-                "text": "High Technology",
-                "href": "/industries/high-technology.html"
-            },
-            {
-                "text": "Industrial Manufacturing",
-                "href": "/industries/industrial-manufacturing.html"
-            },
-            {
-                "text": "Information Services & Publishing",
-                "href": "/industries/publishing.html"
-            },
-            {
-                "text": "Insurance",
-                "href": "/industries/insurance.html"
-            },
-            {
-                "text": "Life Sciences",
-                "href": "/industries/life-sciences.html"
-            },
-            {
-                "text": "Logistics & Distribution",
-                "href": "/industries/logistics-distribution.html"
-            },
-            {
-                "text": "Media and Entertainment",
-                "href": "/industries/media-entertainment.html"
-            },
-            {
-                "text": "Mining",
-                "href": "/industries/mining.html"
-            },
-            {
-                "text": "Oil and Gas",
-                "href": "/industries/oil-and-gas.html"
-            },
-            {
-                "text": "Private Equity",
-                "href": "/industries/private-equity.html"
-            },
-            {
-                "text": "Professional Services",
-                "href": "/industries/professional-services.html"
-            },
-            {
-                "text": "Public Sector",
-                "href": "https://www.infosyspublicservices.com/Pages/index.aspx"
-            },
-            {
-                "text": "Retail",
-                "href": "/industries/retail.html"
-            },
-            {
-                "text": "Travel and Hospitality",
-                "href": "/industries/travel-hospitality.html"
-            },
-            {
-                "text": "Utilities",
-                "href": "/industries/utilities.html"
-            },
-            {
-                "text": "Waste Management",
-                "href": "/industries/waste-management.html"
-            },
-            {
-                "text": "\n\n\n\n\nfeature\nFrom darkness to light: Five 'Ds' can lead the way\n\n\n\n",
-                "href": "/insights/industry-stories/darkness-to-light.html"
-            },
-            {
-                "text": "\n\n\n\nblog\n\nData-driven energy ecosystems for a sustainable future\nread more\n\n\n\n",
-                "href": "/insights/data-analytics/data-driven-energy-ecosystems-for-a-sustainable-future.html"
-            },
-            {
-                "text": "\n\n\n\nwhite paper\nHolistic workforce management\nread more\n\n\n\n",
-                "href": "/industries/utilities/white-papers/documents/workforce-management-solution.pdf"
-            },
-            {
-                "text": "\n\n\n\nblog\nHow are Customers Influencing the Utilities Behavior?\nread more\n\n\n\n",
-                "href": "/insights/industry-stories/mantras-winning-your-customer.html"
-            },
-            {
-                "text": "\n\n\n\nFeatures & Opinions\nData privacy and security in smart grids\nRead More\n\n\n\n",
-                "href": "/industries/utilities/features-opinions/smart-grid-data-privacy.html"
-            },
-            {
-                "text": "\n\n\n\n\nWhite Paper\n\n\n\nAutomating gas pipeline leak management \nread more\n\n\n\n\n\n\n",
-                "href": "/industries/utilities/gas-pipeline-leak-management.html"
-            },
-            {
-                "text": "\n\n\n\nFeatures & Opinions\nScheduling the field workforce \nREAD MORE\n\n\n\n",
-                "href": "/industries/utilities/features-opinions/gaining-efficiencies-workforce-scheduling.html"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/enabling-innovation.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/insights-driven-computing.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/smart-enterprise-experience.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/sap/thought-leadership/documents/mobilizing-enterprise-applications.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/enabling-innovation.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/insights-driven-computing.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/smart-enterprise-experience.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/sap/thought-leadership/documents/mobilizing-enterprise-applications.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/enabling-innovation.pdf"
-            },
-            {
-                "text": "Read More",
-                "href": "/manufacturing/resource-center/documents/insights-driven-computing.pdf"
-            },
-            {
-                "text": "",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Infosys helps Arizona Public Service transform customer service",
-                "href": "/about/clients-speak/large-scale-customer-service-transformation.html"
-            },
-            {
-                "text": "",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Cummins amplifies online presence",
-                "href": "/industries/documents/online-presence-cummins.pdf"
-            },
-            {
-                "text": "",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Big data framework improves visibility into Openreach network",
-                "href": "/industries/documents/bt-openreach-network.pdf"
-            },
-            {
-                "text": "",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "DuPont realizes business value; gets closer to customers",
-                "href": "/about/clients-speak/realizes-business-value-customers.html"
-            },
-            {
-                "text": "Navigate your next",
-                "href": "/navigate-your-next.html"
-            },
-            {
-                "text": "About\n              Us",
-                "href": "/about.html"
-            },
-            {
-                "text": "Careers",
-                "href": "/careers/"
-            },
-            {
-                "text": "ESG",
-                "href": "/about/esg.html"
-            },
-            {
-                "text": "Investors",
-                "href": "/investors.html"
-            },
-            {
-                "text": "Newsroom",
-                "href": "/newsroom.html"
-            },
-            {
-                "text": "Alumni",
-                "href": "https://alumni.infosys.com/app-welcome"
-            },
-            {
-                "text": "EdgeVerve Systems",
-                "href": "https://www.edgeverve.com/"
-            },
-            {
-                "text": "Infosys BPM",
-                "href": "https://www.infosysbpm.com/"
-            },
-            {
-                "text": "Infosys Consulting",
-                "href": "/services/consulting.html"
-            },
-            {
-                "text": "Infosys Public Services",
-                "href": "https://www.infosyspublicservices.com/"
-            },
-            {
-                "text": "Infosys Foundation",
-                "href": "https://www.infosys.org/infosys-foundation.html"
-            },
-            {
-                "text": "Infosys Foundation USA",
-                "href": "https://www.infosys.org/infosys-foundation-usa.html"
-            },
-            {
-                "text": "Infosys Science Foundation",
-                "href": "https://www.infosysprize.org/"
-            },
-            {
-                "text": "Infosys Leadership Institute",
-                "href": "/leadership-institute.html"
-            },
-            {
-                "text": "Terms\n              of Use",
-                "href": "/terms-of-use.html"
-            },
-            {
-                "text": "Privacy Statement",
-                "href": "/privacy-statement.html"
-            },
-            {
-                "text": "Cookie Policy",
-                "href": "/privacy-statement/cookie-policy.html"
-            },
-            {
-                "text": "Safe Harbour Provision",
-                "href": "/safe-harbor-provision.html"
-            },
-            {
-                "text": "Site Map",
-                "href": "/sitemap.html"
-            },
-            {
-                "text": "Modern Slavery Statement",
-                "href": "/investors/corporate-governance/documents/statement-under-modern-slavery-act.pdf"
-            },
-            {
-                "text": "Payment\n              Guide for Suppliers",
-                "href": "/payment-information-suppliers.html"
-            },
-            {
-                "text": "  ",
-                "href": "https://twitter.com/Infosys"
-            },
-            {
-                "text": "  ",
-                "href": "https://www.facebook.com/Infosys"
-            },
-            {
-                "text": "  ",
-                "href": "https://www.linkedin.com/company/infosys"
-            },
-            {
-                "text": "  ",
-                "href": "http://youtube.com/user/infosys"
-            },
-            {
-                "text": "Select\n                  Country/region",
-                "href": "javascript:void(0);"
-            },
-            {
-                "text": "Australia",
-                "href": "/australia.html"
-            },
-            {
-                "text": "Austria",
-                "href": "/at-en/"
-            },
-            {
-                "text": "Belgium",
-                "href": "/be-en/"
-            },
-            {
-                "text": "Brazil",
-                "href": "/br/"
-            },
-            {
-                "text": "Bulgaria",
-                "href": "/bg-en/"
-            },
-            {
-                "text": "Canada",
-                "href": "/en-ca/powering-digital-canada.html"
-            },
-            {
-                "text": "Chile",
-                "href": "/contact/country.html?region=Americas&subsidiary=Infosys#Chile"
-            },
-            {
-                "text": "China",
-                "href": "/cn/"
-            },
-            {
-                "text": "Costa\n                      Rica",
-                "href": "/contact/country.html?region=Americas&subsidiary=Infosys#Costa%2520rica"
-            },
-            {
-                "text": "Croatia",
-                "href": "/hr-en/"
-            },
-            {
-                "text": "Czech",
-                "href": "/cz-en/"
-            },
-            {
-                "text": "Denmark",
-                "href": "/dk-en/"
-            },
-            {
-                "text": "Estonia",
-                "href": "/ee-en/"
-            },
-            {
-                "text": "Finland",
-                "href": "/fi-en/"
-            },
-            {
-                "text": "France",
-                "href": "/fr-en/"
-            },
-            {
-                "text": "Germany",
-                "href": "/de/"
-            },
-            {
-                "text": "Hong\n                      Kong",
-                "href": "/hk-en.html"
-            },
-            {
-                "text": "Hungary",
-                "href": "/hu-en/"
-            },
-            {
-                "text": "India",
-                "href": "/contact/country.html?region=Asia_X32_Pacific&subsidiary=Infosys#India"
-            },
-            {
-                "text": "Ireland",
-                "href": "/ie-en/"
-            },
-            {
-                "text": "Italy",
-                "href": "/it-en/"
-            },
-            {
-                "text": "Japan",
-                "href": "/jp/"
-            },
-            {
-                "text": "Liechtenstein",
-                "href": "/contact/country.html?region=Europe&subsidiary=Infosys#Liechtenstein"
-            },
-            {
-                "text": "Latvia",
-                "href": "/lv-en/"
-            },
-            {
-                "text": "Lithuania",
-                "href": "/lt-en/"
-            },
-            {
-                "text": "Luxembourg",
-                "href": "/lu-en/"
-            },
-            {
-                "text": "Malaysia",
-                "href": "/sea.html"
-            },
-            {
-                "text": "Mauritius",
-                "href": "/contact/country.html?region=Middle_X32_East_X32_and_X32_Africa&subsidiary=Infosys#Mauritius"
-            },
-            {
-                "text": "Mexico",
-                "href": "/mx/"
-            },
-            {
-                "text": "New\n                      Zealand",
-                "href": "/australia.html"
-            },
-            {
-                "text": "Norway",
-                "href": "/no-en/"
-            },
-            {
-                "text": "Peru",
-                "href": "/contact/country.html?region=Americas&subsidiary=Infosys#Peru"
-            },
-            {
-                "text": "Philippines",
-                "href": "/sea.html"
-            },
-            {
-                "text": "Poland",
-                "href": "/pl-en/"
-            },
-            {
-                "text": "Portugal",
-                "href": "/pt-en/"
-            },
-            {
-                "text": "Romania",
-                "href": "/ro-en/"
-            },
-            {
-                "text": "Russia",
-                "href": "/ru-en/"
-            },
-            {
-                "text": "Singapore",
-                "href": "/sea.html"
-            },
-            {
-                "text": "Slovakia",
-                "href": "/sk-en/"
-            },
-            {
-                "text": "Slovenia",
-                "href": "/sl-en/"
-            },
-            {
-                "text": "South\n                      Africa",
-                "href": "/contact/country.html?region=Middle_X32_East_X32_and_X32_Africa&subsidiary=Infosys#South%20Africa"
-            },
-            {
-                "text": "Southeast Asia",
-                "href": "/sea.html"
-            },
-            {
-                "text": "South\n                      Korea",
-                "href": "/contact/country.html?region=Asia_X32_Pacific&subsidiary=Infosys#South%20Korea"
-            },
-            {
-                "text": "Spain",
-                "href": "/es-en/"
-            },
-            {
-                "text": "Sweden",
-                "href": "/se-en/"
-            },
-            {
-                "text": "Switzerland",
-                "href": "/ch-en/"
-            },
-            {
-                "text": "Taiwan",
-                "href": "/contact/country.html?region=Asia_X32_Pacific&subsidiary=Infosys#Taiwan"
-            },
-            {
-                "text": "The Netherlands",
-                "href": "/nl-en/"
-            },
-            {
-                "text": "United\n                      Arab Emirates",
-                "href": "/contact/country.html?region=Middle_X32_East_X32_and_X32_Africa&subsidiary=Infosys#United%20Arab%20Emirates"
-            },
-            {
-                "text": "United Kingdom (UK)",
-                "href": "/gb-en/"
-            },
-            {
-                "text": "United States",
-                "href": "/americas.html"
-            },
-            {
-                "text": "  ",
-                "href": "javascript:void(0)"
-            },
-            {
-                "text": "Cookie Policy ",
-                "href": "https://www.infosys.com/privacy-statement/cookie-policy.html"
-            },
-            {
-                "text": "Cookie Policy ",
-                "href": "https://www.infosys.com/privacy-statement/cookie-policy.html"
-            },
-            {
-                "text": "",
-                "href": "https://www.onetrust.com/products/cookie-consent/"
-            }
-        ],
-        "industry_name": "",
-        "industry_description": ""
-    }
-]
+{
+    "https://www.infosys.com/industries/": [
+        "FEATURE",
+        "Infosys positioned as a 'major player' in the IDC MarketScape for EMEA Utilities 2017",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/newsroom/events/2024/ai-financial-services.html": [
+        "Date:\nAugust 28, 2024",
+        "Time:\n2:00 – 5:30 pm",
+        "Location:\nAmazon JFK14, 7 W 34th St, NYC",
+        "The event will be a great opportunity to learn about the latest trends in AI, how organizations can become AI-first, experience innovative offerings for financial services, engage in insightful conversations and network with peers and leading players in the industry.",
+        "We would be honored to have you join us for this engaging and informative afternoon.",
+        "This half-day event will cover all things AI, from the latest trends in financial services to how the industry is adapting and scaling AI to achieve business outcomes. From various panel sessions and guest speakers, concluding with networking among fellow leaders, this event will inspire you to think innovatively about your own future-ready enterprise.",
+        "Infosys Topaz is an AI-first set of services, solutions and platforms using generative AI technologies. It helps amplify the potential of humans, enterprises and communities to create value from unprecedented innovations, pervasive efficiencies and connected ecosystems. It brings the advantage of 12,000+ AI assets, 150+ pre-trained AI models, 10+ AI platforms steered by AI-first specialists and data strategists, and a ‘responsible by design’ approach that is uncompromising on ethics, trust, privacy, security and regulatory compliance.",
+        "Infosys is a global leader in next generation digital services and consulting. We enable clients in 50+ countries to navigate their digital transformation. With over three decades of experience in managing the system and workings of global enterprises, we expertly steer our clients through their digital journey. Visit www.infosys.com to see how Infosys (NYSE: INFY) can help your enterprise navigate your next.",
+        "I opt-in for Infosys marketing communications.",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/chemical-manufacturing.html": [
+        "PRESS RELEASE",
+        "2023 Global Cloud Ecosystem Report",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/communication-services.html": [
+        "PRESS RELEASE",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/financial-services.html": [
+        "REPORT",
+        "Infosys Bank Tech Index - Volume 3",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/healthcare.html": [
+        "PRESS RELEASE",
+        "2023 Global Cloud Ecosystem Report",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/high-technology.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/industrial-manufacturing.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/insurance.html": [
+        "OFFERINGS",
+        "Infosys Policy Migration Solution",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/professional-services.html": [
+        "VIDEO",
+        "Transitioning and Transforming: Vialto Partners and Infosys – Featured in WSJ",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/retail.html": [
+        "BLOG",
+        "How Cloud Optimizes Retail Supply Chain Efficiency Through Networks",
+        "\"You reap what you sow’ is in our DNA here at Young Living. We know that a bountiful harvest is the result of months of hard work. With Infosys Equinox, we planted the seeds of our new e-commerce platform, and now with the platform and the Infosys team’s dedication, we are finally harvesting. Thank you for helping to transform Young Living, and bringing us into the modern age of e-commerce.\"",
+        "Prasad Gankanda\nChief Operating Officer, Young Living",
+        "Consumer Spotlight: Can Supply Chains be Lean, Mean and Green?",
+        "Our digital experts navigate the shifts in supply chains across CPG, retail, and logistics so that businesses can become more agile, responsive and resilient in the face of disruption.",
+        "CGT Webinar: Conagra Brands’ ‘Secret Sauce’ Integration Playbook",
+        "Integrating a new plant can be a challenge: integrating 14 in a single acquisition can be a nightmare",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/utilities.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Energy Transition with Infosys",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "Find out more about how we can help your organization navigate its next. Let us know your areas of interest so that we can serve you better.",
+        "Opt in for marketing communication Privacy Statement",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-marketing.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Infosys Digital Marketing services",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-commerce.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Infosys Digital Commerce Radar 2023: Highlights",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-interaction.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-workplace-services.html": [
+        "SUCCESS STORY",
+        "Reimagining the Workplace: E.ON's Story of User-Centric IT Transformation with Infosys",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-experience.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/metaverse.html": [
+        "PRESS RELEASE",
+        "2023 Global Cloud Ecosystem Report",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/data-ai-topaz.html": [
+        "FEATURE",
+        "Infosys strengthens RAI Commitment. Collaborates with C2PA and AIGA",
+        "\"Growing our cloud capabilities has been integral to our digital transformation. We also know that continuing to strengthen these capabilities is the way for us to become an AI-first enterprise that will enable to service our members seamlessly. Infosys is a trusted partner for us on this journey.\"",
+        "Amir Desai\nCIO, Molina Healthcare",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/data-analytics.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/applied-ai.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "\"We led a consortium of partners to demonstrate how data analytics, blockchain, Internet of Things and AI models can help predict demand, consumption and price as accurately as seasoned experts would, for trading companies to streamline their business trading and procurement process. The information was presented via a simple, intuitive dashboard that could be easily understood even by a non-technologist. At the heart of this game-changing innovation was Infosys Applied AI offerings.\"",
+        "Jane Cole\nDirector, Head of Product Management - Lending Product, Service & Transformation, Westpac Institutional Bank",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/generative-ai.html": [
+        "CASE STUDY",
+        "Infosys Reincarnates as a Knowledge Enterprise Thanks to GenAI",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/sustainability-services.html": [
+        "REPORT",
+        "Infosys ESG Report 2023-24: Pioneering Sustainable Growth",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/blockchain.html": [
+        "PRESS RELEASE",
+        "Infosys Topaz - An AI-first offering to accelerate business value for global enterprises using generative AI",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/engineering-services.html": [
+        "PRESS RELEASE",
+        "Infosys to Acquire Leading Engineering R&D services provider, in-tech",
+        "\"In its endeavor to improve the operational availability and to reduce downtime of ship borne equipment, Infosys has successfully implemented AI-based Condition Monitoring System on one of ships constructed by GSL. The system uses state of the art diagnostics and prognostics model to assess and predict the health of critical equipment.\"",
+        "Cmde Bharat Bhushan Nagpal\nChairman & Managing Director, Goa Shipyard Ltd",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/engineering-services/service-offerings/internet-of-things.html": [
+        "BUSINESS SOLUTIONS",
+        "Infosys Connected Operations on Cloud",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/agile-devops.html": [
+        "PRESS RELEASE",
+        "2023 Global Cloud Ecosystem Report",
+        "In our endeavor to be more innovative, more responsive to business change and to be cost effective, we decided to adopt an agile-first approach to transform our SAP services. Infosys partnered with us and brought onboard its proven next-generation service delivery Agile framework for executing a phased transformation journey. I am very proud of what we achieved. We have reduced business disruptions by half, with service requests being delivered 80 percent faster, turnaround time improved by 45 percent, and all this with 33 percent cost reduction in the first year. We worked together as a team to become truly agile in SAP.”",
+        "Christian Bayer\nHead of ERP and Data & Analytics, Syngenta Group",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/api-economy.html": [
+        "VIDEO",
+        "Partner Speak: Infosys and Salesforce – Making enterprises more competitive with AI + Data + CRM",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/application-modernization.html": [
+        "VIDEO",
+        "Decoding the Application Modernization Labyrinth",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/cloud-cobalt.html": [
+        "PRESS RELEASE",
+        "Cloud Survey Report 2024",
+        "I think that the convergence of edge computing and AI presents an exciting opportunity for the real-time data, a real-time low latency processing and decision making at the network edge, which is extremely critical for us, given all of the platforms, rigs that we have out across the globe",
+        "Keisha Garcia\nVice President of Digital Foundations at BP",
+        "VISIT THE CLOUD HUB",
+        "Infosys Cobalt Stories: Cloud Chaos to Clarity",
+        "Personalized ebook with Infosys Cobalt Success Stories in five areas of business impact across 6 Industries.",
+        "Kraft Heinz: Crafting a digital enterprise that navigates to next",
+        "Since 2004, Kraft Heinz and Infosys have partnered to modernize the food giant's data landscape. A seamless cloud migration to Snowflake, orchestrated by Infosys, that transformed data accessibility without disrupting operations.",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-process-automation.html": [
+        "ARTICLE",
+        "Process Renaissance",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/digital-supply-chain.html": [
+        "PRESS RELEASE",
+        "2023 Global Cloud Ecosystem Report",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/microsoft-dynamics.html": [
+        "PRESS RELEASE",
+        "Infosys Topaz - An AI-first offering to accelerate business value for global enterprises using generative AI",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/microsoft-cloud-business.html": [
+        "PRESS RELEASE",
+        "2023 Global Cloud Ecosystem Report",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/oracle.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/sap.html": [
+        "PRESS RELEASE",
+        "Launched Infosys Aster: The AI-amplified Marketing Suite",
+        "Live Enterprise with SAP RISE - Fireside Chat with SAP and Infosys",
+        "RISE with SAP is a comprehensive, intelligent, customer-specific offering from SAP that help enterprises drive their business-transformation-as-a-service.",
+        "On Demand Webinar: Modernizing SAP with Infosys and Google Cloud",
+        "Google Cloud and Infosys have partnered on modernizing SAP for over two years. We expanded our partnership to include innovations with SAP to solve customer challenges in their digital transformation journeys.",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/salesforce.html": [
+        "VIDEO",
+        "Partner Speak: Infosys and Salesforce – Making enterprises more competitive with AI + Data + CRM",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/experience-transformation.html": [
+        "PRESS RELEASE",
+        "Infosys and ServiceNow Strengthen Strategic Collaboration to Transform Customer Experiences...",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/energy-transition.html": [
+        "INSIGHTS",
+        "Driving #EnergyTansitionNow With 6 Pillars of Change",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/cyber-security.html": [
+        "CASE STUDY",
+        "Infosys and Ferroglobe Journey Towards a Robust and Secure Cyber Landscape",
+        "Infosys secures MS Amlin's digital transformation journey",
+        "Infosys strengthened the overall security posture and improved network and cloud security for MS Amlin by diligently assessing vulnerabilities and threats in their environment",
+        "Cummins and Infosys: Securing identities together",
+        "Infosys helped Cummins minimize the probability of potential security breaches by improving password management and establishing access governance across their applications",
+        "The Cybersecurity program at Infosys is an amalgamation of a comprehensive cybersecurity strategy and framework which is proficiently driven through a strong governance program with endorsement from the Management – Information Security Council and the Board. Infosys Cybersecurity program is managed by the Information Security Group (ISG).",
+        "ISG is responsible for constantly being on the vigil and executing the task of upholding the security posture of the organization. It empowers various teams within Infosys by providing them a secure environment to work, and by disseminating necessary security awareness. ISG plays a vital role in delivering assurance and trust to all Infosys customers and stakeholders by securing their information and information systems.",
+        "ISG as CoE: Committed to innovation and eliminating risks for strengthening the security posture",
+        "Imbibing automation in the security offerings and capabilities",
+        "Creating value for our customers/stakeholders through best-in-class industry leading initiatives",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/quality-engineering.html": [
+        "TESTIMONIAL",
+        "Infosys Enabled Customer-Centric Digital Transformation for Telenet",
+        "The Future of Quality Engineering is with AI-assisted Everything",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "READ MORE",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/application-development-maintenance.html": [
+        "PRESS RELEASE",
+        "Infosys Unveils Product-Centric Delivery Model by using Agile and DevOps to Empower and Accelerate Business Outcomes",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/consulting.html": [
+        "PRESS RELEASE",
+        "Infosys Topaz - An AI-first offering to accelerate business value for global enterprises using generative AI",
+        "Strategies to help the top executive grow, transform and construct the organization of the future.",
+        "Vision, Experience, Drive.",
+        "CEO and Managing Partner at Infosys Consulting",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/services/incubating-emerging-technologies.html": [
+        "PRESS RELEASE",
+        "Infosys Topaz - An AI-first offering to accelerate business value for global enterprises using generative AI",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/contact/request-for-services.html": [
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/utilities/features-opinions/reduce-cost-increase-agility.html": [
+        "Infosys has been positioned as a Major Player in the IDC MarketScape: Service Providers for EMEA Utilities 2017 Vendor Assessment (doc #EMEA41387516, February 2017). The company has been recognized for its 'Renew and New' strategy of transforming core IT services and leveraging emerging technologies like AI and analytics for new products and services.",
+        "The IDC MarketScape vendor assessment provides a comprehensive overview of services for the Utilities segment and assessed 15 service providers for the report. As per the report, \"Infosys is a trusted transformation partner known for its ability to provide its clients with the right mix of technology options, competence, and innovation in execution. Its focus on automation using its artificial intelligence platform MANA (now part of Infosys Nia) to reduce cost and increase agility, and initiatives like Zero Distance are helping clients realize value beyond the contracted engagements.",
+        "About IDC MarketScape : IDC MarketScape vendor analysis model is designed to provide an overview of the competitive fitness of ICT (information and communications technology) suppliers in a given market. The research methodology utilizes a rigorous scoring methodology based on both qualitative and quantitative criteria that results in a single graphical illustration of each vendor’s position within a given market. IDC MarketScape provides a clear framework in which the product and service offerings, capabilities and strategies, and current and future market success factors of IT and telecommunications vendors can be meaningfully compared. The framework also provides technology buyers with a 360-degree assessment of the strengths and weaknesses of current and prospective vendors.",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/utilities/case-studies/simplify-invoicing-data-management.html": [
+        "CASE STUDY",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/insights/data-analytics/data-driven-energy-ecosystems-for-a-sustainable-future.html": [
+        "DATA ANALYTICS",
+        "It is that time of the year when policy makers, business leaders and academicians meet to discuss global challenges at the World Economic Forum (WEF) Annual Meeting. Shaping the future of energy is one of the focus areas of the forum. In the context of energy, big data and digital technologies will drive new efficiencies and open up possibilities, thereby playing a pivotal role in its future. Leveraging data in newer and more advanced ways will be a fundamental driver in creating an energy ecosystem for a sustainable future. This ecosystem could be predicated on what The WEF Global Energy Architecture Performance Index Report 2016 calls the \"Energy Triangle\", which benchmarks energy systems against three primary goals: Economic Growth and Development, Environmental Sustainability, and Energy Access and Security. The question is, how can data-driven energy ecosystems help achieve these goals?",
+        "Economic growth and development",
+        "Economic growth, in many ways, is based on having a robust energy ecosystem that includes an appropriate mix of fossil fuels and renewables. Creating a sustainable future for such an ecosystem is often talked about in terms of increasing adoption of renewables and reducing emissions. However, I would like to emphasize another aspect of sustainability ─ a relentless focus on economic efficiency of energy. This is not just about energy savings across the utility value chain, but rather, a broad focus on efficiency across the energy spectrum - from exploration and production of Oil & Gas, to every aspect of generation, distribution, and consumption of energy.",
+        "In this context, there are critical questions that need to be addressed. How can we reduce the break-even price of oil by decreasing the cost of exploration, production and distribution, thereby reducing the impact of oil price fluctuations? How can we maximize recovery in conventional reserves, and formulate field depletion plans to extend plateau time, rationalize cost of midstream operations, and mitigate risks in energy trading? How can we reduce losses from generation to distribution? How can we optimize usage by empowering consumers and providing advanced monitoring techniques? How can we improve grid operations with better grid planning, voltage regulation, customer and field operations, and improved fault detection systems?",
+        "These perplexing questions are in some ways \"use cases\" for leveraging advanced digital technologies and for harnessing big data techniques. Increasing instrumentation, connected devices, rapid adoption of sensor technologies and the Internet of Things (IoT) network lead to better data collection and analysis, which in turn results in better and more efficient ways of managing demand-supply in the energy sector. The need of the hour is a well-defined and executed information and data management strategy that focuses on insightful analysis of data. Economies who adopt this - including the possibilities of predictive analytics, new frontiers in automation and big data, and advanced industrial control networks - improve their chances to strengthen a sustainable energy ecosystem.",
+        "Environmental sustainability",
+        "While energy drives economic development, it is also responsible for more than 65% of greenhouse gas emissions. The approaches to mitigating the environmental consequences of the production and consumption of fossil fuels continue to dominate discussions on climate change. Here again, data plays a pivotal role.",
+        "Rigorous data analysis drives automated environmental management systems and enables dynamic management of international environmental regulations. Further, it helps strengthen industrial safety. In this context, Infosys implements digital Environment, Health, and Safety (EHS) systems to minimize carbon footprint of organizations. Further, we are also a member of the Carbon Pricing Leadership Coalition (CPLC), an alliance of governments, corporations, and civil society to drive effective carbon pricing policy adoption and accelerate implementation.",
+        "Soil conservation and restoration with advanced chemical analysis and continuous monitoring is another area where a superior data management strategy can prove to be advantageous. Automated pollution control systems with mobile-enabled dashboards to track measurements ensure superior management of water, land and air pollution. This is another example of how digital technologies can drive a stronger energy ecosystem.",
+        "Energy access and security",
+        "Secure and reliable supply of low-cost energy holds the key to an equitable industrial and social ecosystem. A fine balance of physical, technological, societal, and regulatory elements is required to match global supply and demand. The growth of distributed generation of renewable energy has helped make progress in this direction. Needless to mention, digital technologies coupled with advanced data analytics can play a bigger role in ensuring sustainable growth and affordable energy.",
+        "With increasing adoption of smart meters, data can be leveraged to empower consumers in the context of electricity/power usage. A growing green conscience among today's power consumers, especially millennials, will make such a move very effective. Here again, there are enormous benefits to a data-driven approach. For instance, Infosys is working on employing advanced machine learning techniques to reduce errors and increase the generation efficiency for wind turbines in wind farms.",
+        "Statistical modeling and forecasting tools help eliminate functional and structural inefficiencies across energy systems. Use cases of functional modeling in oil and gas include predictive maintenance of pipelines and equipment. Further, predictive analysis can be applied to avert overload of the gridlock and outages, identify demand patterns and adapt the power generation capacity to this. In addition, renewable sources can be incorporated into the grid and managed appropriately using data. Advanced Artificial Intelligence (AI) techniques, including rules engines, can be applied to achieve optimal flow.",
+        "There is broad agreement that progressive nations need to focus on creating an energy ecosystem for a sustainable future. However, this is easier said than done - given the complexities in defining such an ecosystem. It consists of multiple sources of energy, different types of usage and consumption, different adoption levels, and different demand supply patterns - all of which stand exposed to geo-political and environmental risks, many of which are not in our control. However, a relentless focus on a data-driven approach to managing this can yield progressive benefits.",
+        "WEF always throws up intriguing questions and new answers. At WEF 2017, I am looking forward to how stakeholders will address various aspects of this complex energy ecosystem."
+    ],
+    "https://www.infosys.com/industries/utilities/features-opinions/smart-grid-data-privacy.html": [
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/utilities/gas-pipeline-leak-management.html": [
+        "Infosys believes in proactive pipeline maintenance across the ecosystem enables gas utilities to identify and mitigate risks, while ensuring safe and reliable distribution. The expert from Infosys co-authored an article on proactive pipeline leak management in the Pipeline & Gas Journal.",
+        "Automated leak management processes supported by a robust functional architecture provide real-time data that help gas utilities:",
+        "Read",
+        "Published with permission of Pipeline & Gas Journal",
+        "Surya Srinivas Chavali, Lead Consultant, Utilities Smart Grid practice, Infosys Limited",
+        "Surya has more than 11 years of experience in IT consulting and project management at gas and electric utilities. He can be reached atsuryas_chavali@infosys.com.",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ],
+    "https://www.infosys.com/industries/utilities/features-opinions/gaining-efficiencies-workforce-scheduling.html": [
+        "Asset intensive organizations such as water, gas, and electric utilities rely heavily on field staff to keep the operations going. They need to maintain numerous assets – from their own production and network assets to public and private assets on the customer’s premises.",
+        "Utilities today need a single enterprise-wide fieldwork solution that supports a mixture of field activities and ensures economical allocation of task to crews, with optimal street-level routing.",
+        "Workforce scheduling helps increase productivity, quality of service, and customer and employee satisfaction. It helps streamline back-office operation, reduce planning time and release office staff to monitor other valuable activities. It also helps minimize cost by creating optimized schedule based on rule-based scheduling to produce efficient routes by grouping service calls for field workers.",
+        "This article delves into workforce scheduling and the steps involved in this exercise; and outlines the benefits that a utilities can obtain through real-time workforce scheduling.",
+        "Read",
+        "Published with the permission of Energy Central",
+        "Senior Manager for Utility Practice at Infosys.",
+        "He has extensive experience in service delivery and project management for medium to large-scale projects, primarily in the domain of energy and utilities, manufacturing, and supply chain management. His core expertise lies in system integration and program management.",
+        "Ashish can be reached at AshishKumar_Das@infosys.com",
+        "Company",
+        "Subsidiaries",
+        "Programs",
+        "Support",
+        "Connect with us",
+        "Copyright © 2024 Infosys Limited"
+    ]
+}
