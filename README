@@ -1,0 +1,28 @@
+Prerequisites
+Ensure that you have Python 3.9.x installed on your system before running the server.
+
+Python Libraries Installation
+Use the following commands to set up the required Python libraries:
+
+Copy code
+python -m venv myenv
+./myenv/Scripts/activate
+pip install tensorflow
+pip install tensorflow-text
+pip install tensorflow-hub
+pip install transformers
+pip install sentencepiece
+pip install jupyter
+pip install nltk
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install unidecode
+pip install keybert
+Running the Server
+Execute the following command to run the server:
+
+Copy code
+python nacepredictionServer.py
+Once the server is running, proceed to run the BusinessPartnerNaceCodeAnalyzer application.
+
+Running the Analyzer
+In the Java application (BusinessPartnerNaceCodeAnalyzer.java), provide the necessary input data as instructed. The application will analyze business partner data and predict NACE codes.

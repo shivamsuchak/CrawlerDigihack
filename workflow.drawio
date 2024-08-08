@@ -1,0 +1,117 @@
+<mxfile host="65bd71144e">
+    <diagram id="cnR4DmOXyuO16xBZpYoV" name="Page-1">
+        <mxGraphModel dx="318" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="load business Partners" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="create crawl config" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="330" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="crawl webpages and store HTML in BusinessPartner" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="540" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" parent="1" source="7" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="edgeStyle=none;html=1;" parent="1" source="7" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="create HTML process config" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="780" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="9" target="12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="process HTML and store in businessPartner" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="990" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" parent="1" source="12" target="15" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Predict naceCodes&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="1190" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" parent="1" source="15" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;" parent="1" source="15" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="deside which naceCodes we use" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="1400" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" parent="1" source="17" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Store them in the businessPartner" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="1620" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;" parent="1" source="21" target="39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="21" target="7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="110" y="1860"/>
+                            <mxPoint x="120" y="1360"/>
+                            <mxPoint x="120" y="810"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="560" y="2000" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Compare them with the validation set and rate the results" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="1830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="TODO:&lt;br&gt;create method to use a crawl config.&lt;br&gt;define what the crawler could do better.&lt;br&gt;validate which crawler logic ist best." style="whiteSpace=wrap;html=1;rounded=0;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="295" width="240" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="TODO:&lt;br&gt;Improve crawler error handling.&lt;br&gt;Improve crawler error logging.&lt;br&gt;improve crawler speed&lt;br&gt;&lt;br&gt;JAN (Herr Winkler)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="515" width="210" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="TODO:&lt;br&gt;- create a automated config builder.&lt;br&gt;- Add methods for diffrent data processing, e.g summarize, use LLM to create the purpose text out of &amp;lt;p&amp;gt;, text or summrays, work wtih a translator." style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="733.75" width="220" height="152.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="TODO:&lt;br&gt;improve &quot;find best nace code&quot; (count same nace codes, play around with the score and also create a config system for the find best nace code method" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="1345" width="180" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="39" target="48" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="MOST IMPORTANT TODO:&lt;br&gt;define how we deside which nace codes are the best, count lvls, calculate a score, diffrent lvls give diffrent scores, false codes cost score. this part very crusial because the hole system relie on it" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="1797.75" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="TODO:&lt;br&gt;Create propper outputs to manually inspect the results" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="1967.75" width="190" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="TODO:&lt;br&gt;Modulize and optimize the main workflow code" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="40" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="My idea:&lt;br&gt;score the code, for example:&lt;br&gt;lvl 4 - 10p&lt;br&gt;lvl 3 - 5p&lt;br&gt;lvl 2 - 1p&lt;br&gt;no hit - -5p&lt;br&gt;&lt;br&gt;use diffrent scores and manually check how the results looking. then deside which scoring we use&lt;br&gt;&lt;br&gt;with this pipeline we also can just use multiple scoring systems (for example value lvl 4 hits higher or value no hits higher)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="810" y="1748.12" width="310" height="223.75" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

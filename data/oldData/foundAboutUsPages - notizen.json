@@ -1,0 +1,635 @@
+[
+{
+    "website": "https://www.rotthaus.de",
+    "name": "rotthaus medical GmbH",
+    "aboutUsPage": "https://rotthaus.com/", - redirect ist das problem
+    "industryCodeList": "NACE2-73.1",
+    "key": "supplier-os-org-bezirksklinikenmfr~9002215"
+},
+{
+"website": "https://www.hummert.de",
+"name": "Hummert B+D GmbH",
+"aboutUsPage": "https://www.hummert.de/",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9002747"
+},
+{
+"website": "https://www.deffland-gmbH.de",
+"name": "Deffland Backtechnik GmbH",
+"aboutUsPage": "https://www.deffland-gmbH.de/html/wir.php",
+"industryCodeList": "NACE2-70.10",
+"key": "supplier-os-org-baeko~43444"
+},
+{
+"website": "https://www.agriconsa.es",
+"name": "AGRICONSA Agricultura Y Conservas S. A.",
+"aboutUsPage": "http://www.agriconsa.com/que-es-quienes-son-historia-anecoop-cooperativas-labradores-valencia-espana-europa.html",
+"industryCodeList": "NACE2-01.23",
+"key": "supplier-os-org-baeko~41004"
+},
+{
+"website": "https://www.busch-baiser.de",
+"name": "Busch-Baiser-GmbH",
+"aboutUsPage": "https://www.busch-baiser.de/ueberuns.htm",
+"industryCodeList": "NACE2-10.71",
+"key": "supplier-os-org-baeko~43075"
+},
+{
+"website": "https://www.edgar-schoeler.de",
+"name": "Edgar Schöler GmbH",
+"aboutUsPage": "https://www.edgar-schoeler.de/index.php/ueber-uns",
+"industryCodeList": "NACE2-46.69",
+"key": "supplier-os-org-baeko~42102"
+},
+{
+"website": "https://www.pharmore.de",
+"name": "Pharmore", --redirect
+"aboutUsPage": "https://www.pharmore.de/@@multilingual-selector/37a6fdd1fc944be39726ce2c4c979ae3/de?set_language=de",
+"industryCodeList": "NACE2-21.20",
+"key": "supplier-os-org-bezirksklinikenmfr~9001491"
+},
+{
+"website": "https://www.sus-frank.de",
+"name": "Frank Schlüssel- und Sicherheitstechnik GmbH & Co.KG",
+"aboutUsPage": "https://www.sus-frank.de/leistungen/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9000924"
+},
+{
+"website": "https://www.koinor.com", -> ueber uns mit unterpunkten
+"name": "Koinor Polstermöbel GmbH & Co. KG",
+"aboutUsPage": "https://www.koinor.com#",
+"industryCodeList": "NACE2-31.09",
+"key": "supplier-os-org-begros~9999391"
+},
+
+[
+{
+"website": "https://www.ewald-gelantine.de",
+"name": "Ewald-Gelatine GmbH",
+"aboutUsPage": "invalid - Unknown Host",
+"industryCodeList": "NACE2-20.59",
+"key": "supplier-os-org-baeko~43980"
+},
+{
+"website": "https://www.kraatskaas.com",
+"name": "Kraats Kaas B.V.",
+"aboutUsPage": "invalid - Socket",
+"industryCodeList": "NACE2-10.51",
+"key": "supplier-os-org-baeko~45884"
+},
+{
+"website": "https://www.nadjaschaeffer.de",
+"name": "Schäffer Nadja Mediendesign",
+"aboutUsPage": null,
+"industryCodeList": "NACE2-62.03",
+"key": "supplier-os-org-bezirksklinikenmfr~9006072"
+},
+{
+"website": "https://www.schuelke-mayr.com",
+"name": "Schülke & Mayr GmbH",
+"aboutUsPage": "no links found",
+"industryCodeList": "NACE2-20.20",
+"key": "supplier-os-org-baeko~48269"
+},
+{
+"website": "https://www.agriconsa.es",
+"name": "AGRICONSA Agricultura Y Conservas S. A.",
+"aboutUsPage": "http://www.agriconsa.com/que-es-quienes-son-historia-anecoop-cooperativas-labradores-valencia-espana-europa.html",
+"industryCodeList": "NACE2-01.23",
+"key": "supplier-os-org-baeko~41004"
+},
+{
+"website": "https://www.pharmore.de",
+"name": "Pharmore",
+"aboutUsPage": "https://www.pharmore.de/@@multilingual-selector/37a6fdd1fc944be39726ce2c4c979ae3/de?set_language=de",
+"industryCodeList": "NACE2-21.20",
+"key": "supplier-os-org-bezirksklinikenmfr~9001491"
+},
+{
+"website": "https://www.meisemoebel.de",
+"name": "Meise Möbel GmbH & Co. KG",
+"aboutUsPage": "https://www.meisemoebel.de/unternehmen/wer-sind-wir",
+"industryCodeList": "NACE2-46.47",
+"key": "supplier-os-org-begros~9999224"
+},
+{
+"website": "https://www.Ritter-Verpackungen.de",
+"name": "Ritter Verpackungen",
+"aboutUsPage": "https://www.Ritter-Verpackungen.de/produkte/",
+"industryCodeList": "NACE2-46.49",
+"key": "supplier-os-org-baeko~42305"
+},
+{
+"website": "https://www.rotthaus.de",
+"name": "rotthaus medical GmbH",
+"aboutUsPage": "https://rotthaus.com/",
+"industryCodeList": "NACE2-73.1",
+"key": "supplier-os-org-bezirksklinikenmfr~9002215"
+},
+{
+"website": "https://www.indesfuggerhaus.de",
+"name": "Indes Fuggerhaus Textil GmbH",
+"aboutUsPage": "https://www.indesfuggerhaus.com",
+"industryCodeList": "NACE2-46.41",
+"key": "supplier-os-org-begros~9900849"
+},
+{
+"website": "https://www.busch-baiser.de",
+"name": "Busch-Baiser-GmbH",
+"aboutUsPage": "https://www.busch-baiser.de/ueberuns.htm",
+"industryCodeList": "NACE2-10.71",
+"key": "supplier-os-org-baeko~43075"
+},
+{
+"website": "https://www.baeckerei-laurer.de",
+"name": "Bäckerei Laurer",
+"aboutUsPage": "https://www.baeckerei-laurer.de/unternehmen-laurer-gmbh.html",
+"industryCodeList": "NACE2-46.3",
+"key": "supplier-os-org-bezirksklinikenmfr~9000596"
+},
+{
+"website": "https://www.estw.de",
+"name": "ERLANGER STADTWERKE AG",
+"aboutUsPage": "https://www.estw.de",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9000884"
+},
+{
+"website": "https://www.heydt.com",
+"name": "Heydt-Verlag GmbH Information Buchhaltung, Rottenburg",
+"aboutUsPage": "https://www.heydt.com/ueber-uns/unternehmensphilosophie",
+"industryCodeList": "NACE2-62.02",
+"key": "supplier-os-org-alb-fils~8301593"
+},
+{
+"website": "https://www.pfrommergmbh.de",
+"name": "Pfrommer",
+"aboutUsPage": "https://www.pfrommergmbh.de/produkte.html",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9002913"
+},
+{
+"website": "https://www.koinor.com",
+"name": "Koinor Polstermöbel GmbH & Co. KG",
+"aboutUsPage": "https://www.koinor.com#",
+"industryCodeList": "NACE2-31.09",
+"key": "supplier-os-org-begros~9999391"
+},
+{
+"website": "https://www.mwa-aktuell.com",
+"name": "MWA aktuell Vertriebsgesellschaft mbH & Co.KG",
+"aboutUsPage": "https://www.mwa-aktuell.com/produkte.html",
+"industryCodeList": "NACE2-46.47",
+"key": "supplier-os-org-begros~9999549"
+},
+{
+"website": "https://www.intersurgical.de",
+"name": "INTERSURGICAL~~Beatmungs-Produkte GmbH",
+"aboutUsPage": "https://de.intersurgical.com/content/files/108544/-1151244559",
+"industryCodeList": "NACE2-32.50",
+"key": "supplier-os-org-bezirksklinikenmfr~9001121"
+},
+{
+"website": "https://www.lotusbakeries.com",
+"name": "Lotus Bakeries GmbH",
+"aboutUsPage": "https://www.lotusbakeries.com/history",
+"industryCodeList": "NACE2-10.71",
+"key": "supplier-os-org-baeko~43318"
+},
+{
+"website": "https://www.schachermayer.de",
+"name": "Schachermayer Deutschland GmbH",
+"aboutUsPage": "https://www.schachermayer.de/aktuelles/",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9001608"
+},
+{
+"website": "https://www.bhp-interior.com",
+"name": "bhp - best home products Handels GmbH",
+"aboutUsPage": "https://www.bhp-interior.com/account",
+"industryCodeList": "NACE2-31.09",
+"key": "supplier-os-org-begros~9901334"
+},
+{
+"website": "https://www.vossko.de",
+"name": "Vossko GmbH & Co. KG",
+"aboutUsPage": "https://www.vossko.de/",
+"industryCodeList": "NACE2-10.89",
+"key": "supplier-os-org-baeko~49245"
+},
+{
+"website": "https://www.famulus.de",
+"name": "Famulus Verpackungen Horst GmbH",
+"aboutUsPage": "https://www.famulus.de/katalog",
+"industryCodeList": "NACE2-46.69",
+"key": "supplier-os-org-baeko~44010"
+},
+{
+"website": "https://www.hanna.de",
+"name": "HANNA-Feinkost AG",
+"aboutUsPage": "https://www.hanna.de/agb/",
+"industryCodeList": "NACE2-46.32",
+"key": "supplier-os-org-baeko~42143"
+},
+{
+"website": "https://www.edel-bonbon.de",
+"name": "Eduard Edel GmbH",
+"aboutUsPage": "https://www.edel-bonbon.de/de/produkte",
+"industryCodeList": "NACE2-47.24",
+"key": "supplier-os-org-baeko~43728"
+},
+{
+"website": "https://www.aspenpharma.eu",
+"name": "ASPEN Germany",
+"aboutUsPage": "https://www.aspenpharma.ae/",
+"industryCodeList": "NACE2-21.20",
+"key": "supplier-os-org-bezirksklinikenmfr~9001937"
+},
+{
+"website": "https://www.upfield.com",
+"name": "Upfield Deutschland GmbH",
+"aboutUsPage": "https://www.upfield.com/investor-relations-area",
+"industryCodeList": "NACE2-46.38",
+"key": "supplier-os-org-baeko~49079"
+},
+{
+"website": "https://www.teba.de",
+"name": "Teba GmbH & Co. KG",
+"aboutUsPage": "https://www.teba.de/kollektionen/smarthome/motionblinds",
+"industryCodeList": "NACE2-13.92",
+"key": "supplier-os-org-begros~9999841"
+},
+{
+"website": "https://www.sus-frank.de",
+"name": "Frank Schlüssel- und Sicherheitstechnik GmbH & Co.KG",
+"aboutUsPage": "https://www.sus-frank.de/leistungen/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9000924"
+},
+{
+"website": "https://www.rittal.com",
+"name": "Rittal, Herborn",
+"aboutUsPage": "https://www.rittal.com/com-en/products",
+"industryCodeList": "NACE2-26.11",
+"key": "supplier-os-org-alb-fils~8003995"
+},
+{
+"website": "https://www.kurfer-holzverarbeitung.de",
+"name": "Kurfer-Holzverarbeitung",
+"aboutUsPage": null,
+"industryCodeList": "NACE2-16.29",
+"key": "supplier-os-org-baeko~42184"
+},
+{
+"website": "https://www.geze.com",
+"name": "GEZE GMBH & CO.",
+"aboutUsPage": "https://www.geze.com/en",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9000965"
+},
+{
+"website": "https://www.baustoffunion.de",
+"name": "Baustoff Union GmbH",
+"aboutUsPage": "https://www.baustoffunion.de/#skipNavigation155",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9002666"
+},
+{
+"website": "https://www.aha360.com",
+"name": "AHA Licht GmbH",
+"aboutUsPage": "https://www.aha360.com/unternehmen",
+"industryCodeList": "NACE2-43.32",
+"key": "supplier-os-org-baeko~42431"
+},
+{
+"website": "https://www.schlosserei-diezinger.de",
+"name": "Schlosserei Diezinger GmbH & Co. KG",
+"aboutUsPage": "https://www.schlosserei-diezinger.de/leistungen/",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9003971"
+},
+{
+"website": "https://www.hummert.de",
+"name": "Hummert B+D GmbH",
+"aboutUsPage": "https://www.hummert.de/",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9002747"
+},
+{
+"website": "https://www.schmitt-aufzuege.de",
+"name": "Schmitt + Sohn Aufzüge GmbH & Co.KG",
+"aboutUsPage": "https://www.schmitt-aufzuege.de/produkte/personenaufzuege/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9002706"
+},
+{
+"website": "https://www.engh-verpackung.de",
+"name": "Engh Papier",
+"aboutUsPage": "https://engh-verpackung.de//produkte/",
+"industryCodeList": "NACE2-46.49",
+"key": "supplier-os-org-baeko~43854"
+},
+{
+"website": "https://www.impuls-kuechen.de",
+"name": "Impuls Küchen GmbH",
+"aboutUsPage": "https://www.impuls-kuechen.de/de/raumideen/hauswirtschaftsraum.html",
+"industryCodeList": "NACE2-31.02",
+"key": "supplier-os-org-begros~9999594"
+},
+{
+"website": "https://www.deffland-gmbH.de",
+"name": "Deffland Backtechnik GmbH",
+"aboutUsPage": "https://www.deffland-gmbH.de/html/wir.php",
+"industryCodeList": "NACE2-70.10",
+"key": "supplier-os-org-baeko~43444"
+},
+{
+"website": "https://www.kohlhammer.de",
+"name": "Kohlhammer GmbH, Stuttgart",
+"aboutUsPage": "https://www.kohlhammer.de/unternehmen",
+"industryCodeList": "NACE2-18.11",
+"key": "supplier-os-org-bezirksklinikenmfr~9002049"
+},
+{
+"website": "https://www.filstalwelle.de",
+"name": "Filstalwelle TV, Göppingen",
+"aboutUsPage": "https://www.filstalwelle.de/shortnews/2023-11-09-radio-mallorca1-filstalwelle-medienbeteiligter-insel-radiosender-uebernimmt-markennamen",
+"industryCodeList": "NACE2-60.10",
+"key": "supplier-os-org-alb-fils~8003503"
+},
+{
+"website": "https://darlissad.com.ua",
+"name": "DLS Company SP. Z.o.o",
+"aboutUsPage": "https://darlissad.com.ua#about",
+"industryCodeList": "NACE2-01.25",
+"key": "supplier-os-org-baeko~41207"
+},
+{
+"website": "https://www.simons-harren.de",
+"name": "Simons & Harren GmbH",
+"aboutUsPage": "https://www.simons-harren.de/Ueber-uns/",
+"industryCodeList": "NACE2-82.92",
+"key": "supplier-os-org-baeko~48480"
+},
+{
+"website": "https://www.infra-fuerth.de",
+"name": "Infra Fürth GmbH",
+"aboutUsPage": "https://www.infra-fuerth.de/privatkunden/produkte",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9003480"
+},
+{
+"website": "https://www.rrr-company.com",
+"name": "RRR Europe GmbH",
+"aboutUsPage": "https://www.rrr-company.com#unternehmen",
+"industryCodeList": "NACE2-47.59",
+"key": "supplier-os-org-begros~9901456"
+},
+{
+"website": "https://www.obi.de",
+"name": "Baumarkt Hohenstadt GmbH & Co. KG",
+"aboutUsPage": "https://create.obi.de/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9001446"
+},
+{
+"website": "https://www.soehnle-professional.com",
+"name": "Soehnle Industrial Solutions GmbH",
+"aboutUsPage": "https://www.soehnle-professional.com/unternehmen",
+"industryCodeList": "NACE2-28.99",
+"key": "supplier-os-org-baeko~48520"
+},
+{
+"website": "https://www.heldele.de",
+"name": "Heldele Salach Elektro, Salach",
+"aboutUsPage": "https://www.google.com/maps/place/Heldele+GmbH/@48.6859464,9.7386204,17z/data=!3m1!4b1!4m5!3m4!1s0x4799a0ebbec7be2b:0xc99e6c965020afc8!8m2!3d48.6859429!4d9.7408091",
+"industryCodeList": "NACE2-43.21",
+"key": "supplier-os-org-alb-fils~8353000"
+},
+{
+"website": "https://www.busch-brunner.de",
+"name": "Busch & Brunner & Co. KG",
+"aboutUsPage": "https://www.busch-brunner.de/de/c/0",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9000721"
+},
+{
+"website": "https://www.siemens-home.bsh-group.com",
+"name": "SEG Hausgeräte GmbH",
+"aboutUsPage": "https://www.siemens-home.bsh-group.com/lu/fr/",
+"industryCodeList": "NACE2-46.43",
+"key": "supplier-os-org-begros~9999508"
+},
+{
+"website": "https://www.hobart.de",
+"name": "HOBART GmbH",
+"aboutUsPage": "https://www.hobart-spare-parts.com/de-de/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9001077"
+},
+{
+"website": "https://www.healthcare.siemens.de",
+"name": "Siemens AG",
+"aboutUsPage": "https://www.siemens-healthineers.com/deu/investor-relations/",
+"industryCodeList": "NACE2-32.50",
+"key": "supplier-os-org-bezirksklinikenmfr~9001694"
+},
+{
+"website": "https://www.natus.de",
+"name": "Natus Europe GmbH",
+"aboutUsPage": "https://www.natus.de/natus-de.html",
+"industryCodeList": "NACE2-33.13",
+"key": "supplier-os-org-bezirksklinikenmfr~9001405"
+},
+{
+"website": "https://www.wanzl.de",
+"name": "Wanzl Metallwarenfabrik GmbH",
+"aboutUsPage": "https://www.wanzl.com/de_DE/produkte",
+"industryCodeList": "NACE2-30.9",
+"key": "supplier-os-org-baeko~49367"
+},
+{
+"website": "https://www.dng-farmland.de",
+"name": "DNG Farmland Food Service KG",
+"aboutUsPage": "https://dng-farmland.de/produkte.html",
+"industryCodeList": "NACE2-46.39",
+"key": "supplier-os-org-bezirksklinikenmfr~9005834"
+},
+{
+"website": "https://www.hp-schliesssysteme.de",
+"name": "H.P. Schließsysteme",
+"aboutUsPage": "https://hp-schliesssysteme.com/leistungen/",
+"industryCodeList": "NACE2-81.10",
+"key": "supplier-os-org-bezirksklinikenmfr~9002337"
+},
+{
+"website": "https://www.waldner-lab.de",
+"name": "Waldner Laboreinrichtung GmbH & Co.KG",
+"aboutUsPage": "https://www.waldner.de/de/produkte/laboreinrichtung/laborbau/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9004533"
+},
+{
+"website": "https://www.pillenstein.de",
+"name": "Pillenstein Autohaus GmbH Neustadt",
+"aboutUsPage": "https://www.pillenstein.de/",
+"industryCodeList": "NACE2-33.20",
+"key": "supplier-os-org-bezirksklinikenmfr~9004939"
+},
+{
+"website": "https://www.braukmann.de",
+"name": "Braukmann GmbH",
+"aboutUsPage": "https://caso-design.de/wishlist/",
+"industryCodeList": "NACE2-46.43",
+"key": "supplier-os-org-baeko~42959"
+},
+{
+"website": "https://www.druck-ring.de",
+"name": "Druck-Ring GmbH & Co.KG",
+"aboutUsPage": "https://druck-ring.de/#druckring",
+"industryCodeList": "NACE2-46.49",
+"key": "supplier-os-org-baeko~43651"
+},
+{
+"website": "https://www.texapel.it",
+"name": "Texapel SPA",
+"aboutUsPage": "https://www.texapel.it/texapel-english-presentation/",
+"industryCodeList": "NACE2-13.91",
+"key": "supplier-os-org-bettybarclay~F1_203623"
+},
+{
+"website": "http://arthrex.com",
+"name": "Arthrex GmbH, München",
+"aboutUsPage": null,
+"industryCodeList": "NACE2-46.46",
+"key": "supplier-os-org-alb-fils~8352682"
+},
+{
+"website": "https://www.dairygold.de",
+"name": "Dairygold Deutschland Handels GmbH",
+"aboutUsPage": "https://de.dairygold.ie/unsere-genossenschaft/",
+"industryCodeList": "NACE2-10.51",
+"key": "supplier-os-org-baeko~43403"
+},
+{
+"website": "https://www.fortin.de",
+"name": "Fortin Mühlenwerke GmbH & Co. KG",
+"aboutUsPage": "https://www.fortin.de/",
+"industryCodeList": "NACE2-10.61",
+"key": "supplier-os-org-baeko~44128"
+},
+{
+"website": "https://www.frischmann.de",
+"name": "Scholle IPN Germany GmbH",
+"aboutUsPage": "http://frischmann.de",
+"industryCodeList": "NACE2-22.29",
+"key": "supplier-os-org-baeko~44213"
+},
+{
+"website": "https://www.saacke-pforzheim.de",
+"name": "SAACKE GmbH",
+"aboutUsPage": "https://saacke-pforzheim.de/gebr-saacke-pforzheim",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9002869"
+},
+{
+"website": "https://www.hollister.com",
+"name": "Hollister Incorporated",
+"aboutUsPage": "https://www.hollister.com/Public/Globalization/CountrySelectPage?commandArgument=en-CA%7Chollisterca",
+"industryCodeList": "NACE2-32.50",
+"key": "supplier-os-org-bezirksklinikenmfr~9001081"
+},
+{
+"website": "https://www.huoberbrezel.de",
+"name": "Huober-Brezel GmbH & Co. Vertriebs KG",
+"aboutUsPage": "https://huoberbrezel.de/de/home/",
+"industryCodeList": "NACE2-10.72",
+"key": "supplier-os-org-baeko~45190"
+},
+{
+"website": "https://www.spacelabshealthcare.com",
+"name": "Spacelabs Healthcare GmbH, Nürnberg",
+"aboutUsPage": "https://spacelabshealthcare.com/",
+"industryCodeList": "NACE2-32.50",
+"key": "supplier-os-org-alb-fils~8371555"
+},
+{
+"website": "https://www.steinpol.com.pl",
+"name": "Steinpol Central Services SP. z o.o.",
+"aboutUsPage": "https://www.steinpol.com.pl/",
+"industryCodeList": "NACE2-31.09",
+"key": "supplier-os-org-begros~9900236"
+},
+{
+"website": "https://www.ecolab-engineering.de",
+"name": "Ecolab Engineering GmbH, Siegsdorf",
+"aboutUsPage": "https://www.ecolab-engineering.de/de/unternehmen/",
+"industryCodeList": "NACE2-28.29",
+"key": "supplier-os-org-alb-fils~8367019"
+},
+{
+"website": "https://www.rettenmeiermuehle.de",
+"name": "Rettenmeier GmbH Kunstmühle",
+"aboutUsPage": "https://www.rettenmeiermuehle.de/",
+"industryCodeList": "NACE2-10.61",
+"key": "supplier-os-org-baeko~47710"
+},
+{
+"website": "https://www.edgar-schoeler.de",
+"name": "Edgar Schöler GmbH",
+"aboutUsPage": "https://www.edgar-schoeler.de/index.php/ueber-uns",
+"industryCodeList": "NACE2-46.69",
+"key": "supplier-os-org-baeko~42102"
+},
+{
+"website": "https://www.ibw75.de",
+"name": "Wißmeier, Ing.-Büro GmbH",
+"aboutUsPage": "https://ibw75.de/",
+"industryCodeList": "NACE2-33.12",
+"key": "supplier-os-org-bezirksklinikenmfr~9001897"
+},
+{
+"website": "https://www.median-telecom.de",
+"name": "Median Telecom GmbH",
+"aboutUsPage": "https://www.median-telecom.de/reseller-carrier-services/beratungsdienstleistungen/",
+"industryCodeList": "NACE2-26.30",
+"key": "supplier-os-org-bezirksklinikenmfr~9005631"
+},
+{
+"website": "https://www.inmed-gmbh.com",
+"name": "InMed GmbH Angewandte Informatik, Hamburg",
+"aboutUsPage": "https://inmed-gmbh.com/produktuebersicht/",
+"industryCodeList": "NACE2-62.01",
+"key": "supplier-os-org-alb-fils~8367884"
+},
+{
+"website": "https://www.acp.de",
+"name": "ACP IT Solutions Sulzbach, Sulzbach (Taunus)",
+"aboutUsPage": "https://www.acp-gruppe.com/de-de/karriere?hsLang=de-de",
+"industryCodeList": "NACE2-62.09",
+"key": "supplier-os-org-alb-fils~8004561"
+},
+{
+"website": "https://www.soja.at",
+"name": "Soja Austria GmbH",
+"aboutUsPage": "https://soyaustria.com/en/products/",
+"industryCodeList": "NACE2-46.21",
+"key": "supplier-os-org-baeko~41496"
+},
+{
+"website": "https://www.bavaria-roth.de",
+"name": "Bürger Anja Bavaria Kino-Center Roth",
+"aboutUsPage": "invalid - Socket",
+"industryCodeList": "NACE2-73.1",
+"key": "supplier-os-org-bezirksklinikenmfr~9006027"
+},
+{
+"website": "https://www.bayergarten.de",
+"name": "SBM Life Science GmbH",
+"aboutUsPage": "invalid - Timeout",
+"industryCodeList": "NACE2-20.15",
+"key": "supplier-os-org-baeko~42468"
+}
+]
+    ]

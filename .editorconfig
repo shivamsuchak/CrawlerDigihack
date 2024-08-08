@@ -1,0 +1,58 @@
+# Top-most EditorConfig file
+root = true
+
+# Default settings:
+# - UTF-8 encoding
+# - Unix-style newlines
+# - A newline ending every file
+# - Trimming trailing whitespace
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Java source files
+[*.java]
+# Indentation style: space or tab
+indent_style = space
+
+# Indentation size
+indent_size = 4
+
+# Continuation indent size for long lines
+continuation_indent_size = 8
+
+# Max 120 chars on a line
+max_line_length = 120
+
+# Force braces for control structures
+ij_java_force_brace = true
+
+# Java field naming convention: camelCase
+ij_java_field_name_prefix =
+ij_java_static_field_name_prefix =
+ij_java_field_name_suffix =
+
+# Java local variable naming convention: camelCase
+ij_java_local_variable_name_prefix =
+ij_java_local_variable_name_suffix =
+
+# Java parameter naming convention: camelCase
+ij_java_parameter_name_prefix =
+ij_java_parameter_name_suffix =
+
+# Use 'this' qualifier for field access
+ij_java_qualify_field_access_with_this = true
+
+# Use 'this' qualifier for method access
+ij_java_qualify_method_access_with_this = false
+
+# Visual guides at columns 80 and 120
+ij_visual_guides = 80, 120
+
+# Line separator: Unix or Windows
+ij_line_separator = lf
+
+# Arrange code automatically
+ij_java_arrangement_matcher = true

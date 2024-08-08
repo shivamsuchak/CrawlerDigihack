@@ -1,0 +1,15 @@
+ziel ablauf:
+
+websites crawlen
+daten bearbeiten // zum finden des besten "datenverabeitung" brauchen wir einen dynamischen
+
+daten zum naceCode server schicken und nace codes zu dem jeweiligen bp hinzufügen 
+
+
+
+
+evalutionsablauf:
+
+websites crawlen // verschiedenen parameter // eine methode um mehrere die daten auf verschiedene arten zu crawlen??
+
+gecrawlte daten 

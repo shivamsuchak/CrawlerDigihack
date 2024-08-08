@@ -1,0 +1,317 @@
+[
+  {
+    "address": {
+      "city": "Johannesburg",
+      "country": "ZA",
+      "houseNumber": "21",
+      "postalCode": "2058",
+      "street": "The Broads"
+    },
+    "industryCodeList": ["NACE2-69.20"],
+    "key": "supplier-os-org-indus~1223RJAMES",
+    "name": "Baker Tilly",
+    "website": "https://www.bakertillyjhb.co.za"
+  },{
+  "address": {
+    "city": "Würzburg",
+    "country": "DE",
+    "houseNumber": "7/9",
+    "postalCode": "97082",
+    "street": "Max-Planck-Straße"
+  },
+  "industryCodeList": ["NACE2-70.1"],
+  "key": "supplier-os-org-guehring~0000049849",
+  "name": "Vogel Communications Group GmbH & Co.KG",
+  "website": "https://www.vogel.de/"
+},
+
+
+  {
+    "address": {
+      "city": "Langenfeld",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "40764",
+      "street": "Hans-Böckler-Straße 24"
+    },
+    "industryCodeList": ["NACE2-21.20"],
+    "key": "supplier-os-org-mhhannover~10556",
+    "name": "AGUETTANT Deutschland GmbH",
+    "website": "https://www.aguettant.de"
+  },
+
+
+  {
+    "address": {
+      "city": "Abtswind",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "97355",
+      "street": "Gewürzstraße 8"
+    },
+    "industryCodeList": ["NACE2-46.39"],
+    "key": "supplier-os-org-mhhannover~10523",
+    "name": "Wendland spice & food concept convenience GmbH",
+    "website": "https://www.wendland.eu"
+  },{
+  "address": {
+    "city": "Hannover",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "30659",
+    "street": "Rotenburger Straße 26"
+  },
+  "industryCodeList": ["NACE2-46.52"],
+  "key": "supplier-os-org-gesundheit-nordhessen~10619",
+  "name": "Computer Service 2000",
+  "website": "https://www.cs2000.com"
+},{
+  "address": {
+    "city": "Erbendorf",
+    "country": "DE",
+    "houseNumber": "33",
+    "postalCode": "92681",
+    "street": "Im Gewerbpark"
+  },
+  "industryCodeList": ["NACE2-46.61"],
+  "key": "supplier-os-org-kno~9310162",
+  "name": "Raiffeisen-Markt Waren GmbH",
+  "website": "https://www.rmw-steinwald.de"
+},{
+  "address": {
+    "city": "Essen, Ruhr",
+    "country": "DE",
+    "houseNumber": "259",
+    "postalCode": "45356",
+    "street": "Bocholder Str."
+  },
+  "industryCodeList": ["NACE2-47.62"],
+  "key": "supplier-os-org-kno~9312967",
+  "name": "Hans Soldan GmbH",
+  "website": "https://www.soldan.de"
+},{
+  "address": {
+    "city": "GACKENBACH",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "56412",
+    "street": "Kirchstraße 19"
+  },
+  "industryCodeList": ["NACE2-47.74"],
+  "key": "supplier-os-org-ukwuerzburg~102123",
+  "name": "Fritz Stephan GmbH",
+  "website": "http://www.stephan-gmbh.com"
+},{
+  "address": {
+    "city": "Berlin",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "12099",
+    "street": "Lorenzweg 5"
+  },
+  "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+  "key": "supplier-os-org-stelisabethgruppe~10148",
+  "name": "aap Implantate AG",
+  "website": "https://www.aap.de"
+},{
+  "address": {
+    "city": "Reinbek",
+    "country": "DE",
+    "houseNumber": "21",
+    "postalCode": "21465",
+    "street": "Borsigstr."
+  },
+  "industryCodeList": ["NACE2-47.41"],
+  "key": "supplier-os-org-kno~9306604",
+  "name": "Mediaform Druckprodukte GmbH",
+  "website": "https://www.mediaform.de/leistungsportfolio/loesungen-gesundheitswesen"
+},{
+  "address": {
+    "city": "MERZIG",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "66663",
+    "street": "Im Holzhau 8"
+  },
+  "industryCodeList": ["NACE2-46.46"],
+  "key": "supplier-os-org-ukkoeln~1609013",
+  "name": "Kohlpharma GmbH",
+  "website": "https://www.kohlpharma.com"
+},{
+  "address": {
+    "city": "Wiesbaden",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "65187",
+    "street": "Biebricher Allee 34"
+  },
+  "industryCodeList": ["NACE2-62.02"],
+  "key": "supplier-os-org-ukmuenster~20024589",
+  "name": "InfoFabrik GmbH",
+  "website": "https://www.infofabrik.de"
+},{
+  "address": {
+    "city": "Gersthofen",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "86368",
+    "street": "Augsburger Straße 162"
+  },
+  "industryCodeList": ["NACE2-43.32"],
+  "key": "supplier-os-org-baeko~42174",
+  "name": "AHA GmbH",
+  "website": "https://www.aha360.com"
+},{
+  "address": {
+    "city": "München",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "80333",
+    "street": "Arcisstraße 21"
+  },
+  "industryCodeList": ["NACE2-85.42"],
+  "key": "supplier-os-org-ukwuerzburg~0000120807",
+  "name": "Technische Universität München",
+  "website": "https://www.mikrobio.med.tum.de"
+},
+  {
+    "address": {
+      "city": "NÜMBRECHT",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "51588",
+      "street": "Sarstedtstraße 1"
+    },
+    "industryCodeList": ["NACE2-46.46"],
+    "key": "supplier-os-org-ukkoeln~1360094",
+    "name": "Sarstedt AG & Co.",
+    "website": "https://www.sarstedt.com/home/"
+  },{
+  "address": {
+    "city": "Wallenhorst",
+    "country": "DE",
+    "houseNumber": "1",
+    "postalCode": "49134",
+    "street": "Hullerweg"
+  },
+  "industryCodeList": ["NACE2-28.14"],
+  "key": "supplier-os-org-khg~4709",
+  "name": "Franz Joseph Schütte GmbH",
+  "website": "http://www.fjschuette.de"
+},
+  {
+    "address": {
+      "city": "Ense",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "59469",
+      "street": "Oesterweg 29"
+    },
+    "industryCodeList": ["NACE2-27.40"],
+    "key": "supplier-os-org-begros~9999943",
+    "name": "Grossmann Leuchten GmbH & Co. KG",
+    "website": "https://www.grossmann-leuchten.de"
+  },
+  {
+    "address": {
+      "city": "Bochum",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "44795",
+      "street": "Blumenfeldstraße 109 b"
+    },
+    "industryCodeList": ["NACE2-25.73"],
+    "key": "supplier-os-org-hagebau2~975600",
+    "name": "Gausmann Industriebedarf",
+    "website": "https://www.gausmann.com"
+  },
+  {
+    "address": {
+      "city": "Marienheide",
+      "country": "DE",
+      "houseNumber": "",
+      "postalCode": "51709",
+      "street": "Eichendorffstr. 2"
+    },
+    "industryCodeList": ["NACE2-46.41"],
+    "key": "supplier-os-org-begros~9900849",
+    "name": "Indes Fuggerhaus Textil GmbH",
+    "website": "https://www.indesfuggerhaus.de"
+  },{
+  "address": {
+    "city": "Neustadt a.d. Aisch",
+    "country": "DE",
+    "houseNumber": "57",
+    "postalCode": "91413",
+    "street": "Riedfelder Ortsstraße"
+  },
+  "industryCodeList": ["NACE2-33.20"],
+  "key": "supplier-os-org-bezirksklinikenmfr~9004939",
+  "name": "Pillenstein Autohaus GmbH Neustadt",
+  "website": "https://www.pillenstein.de"
+},{
+  "address": {
+    "city": "Nordwalde",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "48356",
+    "street": "Westring 2-4"
+  },
+  "industryCodeList": ["NACE2-43.32"],
+  "key": "supplier-os-org-ukmuenster~20006277",
+  "name": "Dömer Metallbau GmbH",
+  "website": "https://www.doemer-metallbau.de"
+}, {
+  "address": {
+    "city": "Langenfeld",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "40764",
+    "street": "Kronprinzstraße 50"
+  },
+  "industryCodeList": ["NACE2-93.12"],
+  "key": "supplier-os-org-ukmuenster~20008801",
+  "name": "Schauf GmbH",
+  "website": "https://www.schauf.eu"
+},{
+  "address": {
+    "city": "Köln",
+    "country": "DE",
+    "houseNumber": "",
+    "postalCode": "50996",
+    "street": "Emil-Hoffmann-Str. 13"
+  },
+  "industryCodeList": ["NACE2-46.46"],
+  "key": "supplier-os-org-ukmuenster~20012059",
+  "name": "Zoll Medical Deutschland GmbH",
+  "website": "https://www.zoll.com/de/"
+},
+
+  {
+    "address": {
+      "city": "OTTENSTEIN",
+      "country": "DE",
+      "houseNumber": "3",
+      "postalCode": "31868",
+      "street": "CLAUS-PETRI STRASSE"
+    },
+    "industryCodeList": ["NACE2-10.51"],
+    "key": "supplier-os-org-sub~9943117",
+    "name": "WESA FEINKOST GMBH & CO.KG",
+    "website": "https://www.petrella.de"
+  },
+
+  {
+    "address": {
+      "city": "Worcester",
+      "country": "US",
+      "houseNumber": "",
+      "postalCode": "1613",
+      "street": "P.O. Box 59"
+    },
+    "industryCodeList": ["NACE2-96"],
+    "key": "supplier-os-org-indus~1103V-10572",
+    "name": "Webstone a brand of NIBCO",
+    "website": "https://www.webstonevalves.com"
+  }
+]

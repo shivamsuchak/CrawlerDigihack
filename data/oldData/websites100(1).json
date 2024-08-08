@@ -1,0 +1,903 @@
+[
+    {
+      "address": {
+        "city": "Göppingen",
+        "country": "DE",
+        "houseNumber": "9",
+        "postalCode": "73037",
+        "street": "Esslinger Str."
+      },
+      "industryCodeList": ["NACE2-60.10"],
+      "key": "supplier-os-org-alb-fils~8003503",
+      "name": "Filstalwelle TV, Göppingen",
+      "website": "https://www.filstalwelle.de"
+    },
+    {
+      "address": {
+        "city": "Herborn",
+        "country": "DE",
+        "houseNumber": "1662",
+        "postalCode": "35726",
+        "street": "Postfach"
+      },
+      "industryCodeList": ["NACE2-26.11"],
+      "key": "supplier-os-org-alb-fils~8003995",
+      "name": "Rittal, Herborn",
+      "website": "https://www.rittal.com/de-de/"
+    },
+    {
+      "address": {
+        "city": "Sulzbach (Taunus)",
+        "country": "DE",
+        "houseNumber": "19",
+        "postalCode": "65843",
+        "street": "Otto-Volger-Str."
+      },
+      "industryCodeList": ["NACE2-62.09"],
+      "key": "supplier-os-org-alb-fils~8004561",
+      "name": "ACP IT Solutions Sulzbach, Sulzbach (Taunus)",
+      "website": "https://www.acp.de"
+    },
+    {
+      "address": {
+        "city": "Rottenburg",
+        "country": "DE",
+        "houseNumber": "87-89",
+        "postalCode": "72108",
+        "street": "Gartenstraße"
+      },
+      "industryCodeList": ["NACE2-62.02"],
+      "key": "supplier-os-org-alb-fils~8301593",
+      "name": "Heydt-Verlag GmbH Information Buchhaltung, Rottenburg",
+      "website": "https://www.heydt.com"
+    },
+    {
+      "address": {
+        "city": "München",
+        "country": "DE",
+        "houseNumber": "9",
+        "postalCode": "81249",
+        "street": "Erwin-Hielscher-Str."
+      },
+      "industryCodeList": ["NACE2-46.46"],
+      "key": "supplier-os-org-alb-fils~8352682",
+      "name": "Arthrex GmbH, München",
+      "website": "http://arthrex.com"
+    },
+    {
+      "address": {
+        "city": "Salach",
+        "country": "DE",
+        "houseNumber": "54",
+        "postalCode": "73080",
+        "street": "Postfach 11"
+      },
+      "industryCodeList": ["NACE2-43.21"],
+      "key": "supplier-os-org-alb-fils~8353000",
+      "name": "Heldele Salach Elektro, Salach",
+      "website": "https://www.heldele.de"
+    },
+    {
+      "address": {
+        "city": "Siegsdorf",
+        "country": "DE",
+        "houseNumber": "7",
+        "postalCode": "83313",
+        "street": "Raiffeisenstraße"
+      },
+      "industryCodeList": ["NACE2-28.29"],
+      "key": "supplier-os-org-alb-fils~8367019",
+      "name": "Ecolab Engineering GmbH, Siegsdorf",
+      "website": "https://www.ecolab-engineering.de/de/start/"
+    },
+    {
+      "address": {
+        "city": "Hamburg",
+        "country": "DE",
+        "houseNumber": "27",
+        "postalCode": "22359",
+        "street": "Eulenkrugstr."
+      },
+      "industryCodeList": ["NACE2-62.01"],
+      "key": "supplier-os-org-alb-fils~8367884",
+      "name": "InMed GmbH Angewandte Informatik, Hamburg",
+      "website": "https://www.inmed-gmbh.com"
+    },
+    {
+      "address": {
+        "city": "Nürnberg",
+        "country": "DE",
+        "houseNumber": "40",
+        "postalCode": "90449",
+        "street": "Südwestpark"
+      },
+      "industryCodeList": ["NACE2-32.50"],
+      "key": "supplier-os-org-alb-fils~8371555",
+      "name": "Spacelabs Healthcare GmbH, Nürnberg",
+      "website": "https://www.spacelabshealthcare.com"
+    },
+    {
+      "address": {
+        "city": "Algemesi (Valencia)",
+        "country": "ES",
+        "houseNumber": "",
+        "postalCode": "46680",
+        "street": "Parc Empresarial Pepe Miguel, Avinguda Salvador Roig Giner18"
+      },
+      "industryCodeList": [
+        "NACE2-01.23",
+        "NACE2-01.24",
+        "NACE2-10.32",
+        "NACE2-10.39",
+        "NACE2-10.82"
+      ],
+      "key": "supplier-os-org-baeko~41004",
+      "name": "AGRICONSA Agricultura Y Conservas S. A.",
+      "website": "https://www.agriconsa.es"
+    },
+    {
+      "address": {
+        "city": "Motycz",
+        "country": "PL",
+        "houseNumber": "",
+        "postalCode": "21030",
+        "street": "Konopnica 97A"
+      },
+      "industryCodeList": [
+        "NACE2-01.25",
+        "NACE2-02.30",
+        "NACE2-10.32",
+        "NACE2-10.39",
+        "NACE2-11.07",
+        "NACE2-46.11",
+        "NACE2-46.31",
+        "NACE2-46.34",
+        "NACE2-46.46",
+        "NACE2-49.41"
+      ],
+      "key": "supplier-os-org-baeko~41207",
+      "name": "DLS Company SP. Z.o.o",
+      "website": "https://darlissad.com.ua"
+    },
+    {
+      "address": {
+        "city": "Wien",
+        "country": "AT",
+        "houseNumber": "",
+        "postalCode": "1220",
+        "street": "Ares Tower, Donau-City-Strasse 11"
+      },
+      "industryCodeList": ["NACE2-46.21"],
+      "key": "supplier-os-org-baeko~41496",
+      "name": "Soja Austria GmbH",
+      "website": "https://www.soja.at"
+    },
+    {
+      "address": {
+        "city": "Schwabmünchen",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "86830",
+        "street": "Hochfeldstraße 23"
+      },
+      "industryCodeList": ["NACE2-46.69"],
+      "key": "supplier-os-org-baeko~42102",
+      "name": "Edgar Schöler GmbH",
+      "website": "https://www.edgar-schoeler.de"
+    },
+    {
+      "address": {
+        "city": "Delbrück",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "33129",
+        "street": "Boker Straße 41"
+      },
+      "industryCodeList": ["NACE2-46.32"],
+      "key": "supplier-os-org-baeko~42143",
+      "name": "HANNA-Feinkost AG",
+      "website": "https://www.hanna.de"
+    },
+    {
+      "address": {
+        "city": "Piding/Urwies",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "83451",
+        "street": "Teisendorfer Straße 3"
+      },
+      "industryCodeList": ["NACE2-16.29"],
+      "key": "supplier-os-org-baeko~42184",
+      "name": "Kurfer-Holzverarbeitung",
+      "website": "https://www.kurfer-holzverarbeitung.de"
+    },
+    {
+      "address": {
+        "city": "Weißenhorn",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "89264",
+        "street": "Daimlerstraße 44"
+      },
+      "industryCodeList": ["NACE2-46.49"],
+      "key": "supplier-os-org-baeko~42305",
+      "name": "Ritter Verpackungen",
+      "website": "https://www.Ritter-Verpackungen.de"
+    },
+    {
+      "address": {
+        "city": "Gersthofen",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "86368",
+        "street": "Augsburger Straße 162"
+      },
+      "industryCodeList": ["NACE2-43.32"],
+      "key": "supplier-os-org-baeko~42431",
+      "name": "AHA Licht GmbH",
+      "website": "https://www.aha360.com"
+    },
+    {
+      "address": {
+        "city": "Langenfeld",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "40764",
+        "street": "Raiffeisenstraße 15a"
+      },
+      "industryCodeList": ["NACE2-20.15"],
+      "key": "supplier-os-org-baeko~42468",
+      "name": "SBM Life Science GmbH",
+      "website": "https://www.bayergarten.de"
+    },
+    {
+      "address": {
+        "city": "Arnsberg",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "59757",
+        "street": "Raiffeisenstr.9"
+      },
+      "industryCodeList": ["NACE2-46.43"],
+      "key": "supplier-os-org-baeko~42959",
+      "name": "Braukmann GmbH",
+      "website": "https://www.braukmann.de"
+    },
+    {
+      "address": {
+        "city": "Bargteheide",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "22941",
+        "street": "Carl-Benz-Weg 14"
+      },
+      "industryCodeList": ["NACE2-10.71"],
+      "key": "supplier-os-org-baeko~43075",
+      "name": "Busch-Baiser-GmbH",
+      "website": "https://www.busch-baiser.de"
+    },
+    {
+      "address": {
+        "city": "Würselen",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "52146",
+        "street": "Schumannstr. 33"
+      },
+      "industryCodeList": ["NACE2-10.71"],
+      "key": "supplier-os-org-baeko~43318",
+      "name": "Lotus Bakeries GmbH",
+      "website": "https://www.lotusbakeries.com"
+    },
+    {
+      "address": {
+        "city": "Mainz",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "55120",
+        "street": "An der Brunnenstube 25"
+      },
+      "industryCodeList": ["NACE2-10.51"],
+      "key": "supplier-os-org-baeko~43403",
+      "name": "Dairygold Deutschland Handels GmbH",
+      "website": "https://www.dairygold.de"
+    },
+    {
+      "address": {
+        "city": "Oberweyer",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "65589",
+        "street": "Auf den Sechsmorgen 6"
+      },
+      "industryCodeList": ["NACE2-70.10"],
+      "key": "supplier-os-org-baeko~43444",
+      "name": "Deffland Backtechnik GmbH",
+      "website": "https://www.deffland-gmbH.de"
+    },
+    {
+      "address": {
+        "city": "Kirchheim",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "85551",
+        "street": "Ammerthalstraße 40"
+      },
+      "industryCodeList": ["NACE2-46.49"],
+      "key": "supplier-os-org-baeko~43651",
+      "name": "Druck-Ring GmbH & Co.KG",
+      "website": "https://www.druck-ring.de"
+    },
+    {
+      "address": {
+        "city": "Donauwörth",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "86609",
+        "street": "Am Zollfeld 3"
+      },
+      "industryCodeList": ["NACE2-47.24"],
+      "key": "supplier-os-org-baeko~43728",
+      "name": "Eduard Edel GmbH",
+      "website": "https://www.edel-bonbon.de"
+    },
+    {
+      "address": {
+        "city": "Grevenbroich",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "41516",
+        "street": "Rudolf-Diesel-Straße 18"
+      },
+      "industryCodeList": ["NACE2-46.49"],
+      "key": "supplier-os-org-baeko~43854",
+      "name": "Engh Papier",
+      "website": "https://www.engh-verpackung.de"
+    },
+    {
+      "address": {
+        "city": "Sobernheim",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "55566",
+        "street": "Meddersheimer Straße 50"
+      },
+      "industryCodeList": ["NACE2-20.59", "NACE2-10.82"],
+      "key": "supplier-os-org-baeko~43980",
+      "name": "Ewald-Gelatine GmbH",
+      "website": "https://www.ewald-gelantine.de"
+    },
+    {
+      "address": {
+        "city": "Hasselroth",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "63594",
+        "street": "Senefelderstraße 1"
+      },
+      "industryCodeList": ["NACE2-46.69"],
+      "key": "supplier-os-org-baeko~44010",
+      "name": "Famulus Verpackungen Horst GmbH",
+      "website": "https://www.famulus.de"
+    },
+    {
+      "address": {
+        "city": "Düsseldorf",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "40221",
+        "street": "Fringstraße 1"
+      },
+      "industryCodeList": ["NACE2-10.61"],
+      "key": "supplier-os-org-baeko~44128",
+      "name": "Fortin Mühlenwerke GmbH & Co. KG",
+      "website": "https://www.fortin.de"
+    },
+    {
+      "address": {
+        "city": "Eisfeld",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "98673",
+        "street": "Seerasen 1"
+      },
+      "industryCodeList": ["NACE2-22.29"],
+      "key": "supplier-os-org-baeko~44213",
+      "name": "Scholle IPN Germany GmbH",
+      "website": "https://www.frischmann.de"
+    },
+    {
+      "address": {
+        "city": "Erdmannhausen",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "71729",
+        "street": "Riedstr. 1"
+      },
+      "industryCodeList": ["NACE2-10.72"],
+      "key": "supplier-os-org-baeko~45190",
+      "name": "Huober-Brezel GmbH & Co. Vertriebs KG",
+      "website": "https://www.huoberbrezel.de"
+    },
+    {
+      "address": {
+        "city": "SE Hoogeveen",
+        "country": "NL",
+        "houseNumber": "",
+        "postalCode": "7905",
+        "street": "Buitenvaart 1125"
+      },
+      "industryCodeList": ["NACE2-10.51"],
+      "key": "supplier-os-org-baeko~45884",
+      "name": "Kraats Kaas B.V.",
+      "website": "https://www.kraatskaas.com"
+    },
+    {
+      "address": {
+        "city": "Salzkotten",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "33154",
+        "street": "Eschenstraße 5"
+      },
+      "industryCodeList": ["NACE2-10.71"],
+      "key": "supplier-os-org-baeko~47260",
+      "name": "Bakery & Food GmbH",
+      "website": "https://www.bakery-food.de"
+    },
+    {
+      "address": {
+        "city": "Horb a.N.",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "72160",
+        "street": "Manfred-Volz-Straße 7"
+      },
+      "industryCodeList": ["NACE2-10.61"],
+      "key": "supplier-os-org-baeko~47710",
+      "name": "Rettenmeier GmbH Kunstmühle",
+      "website": "https://www.rettenmeiermuehle.de"
+    },
+    {
+      "address": {
+        "city": "Norderstedt",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "22851",
+        "street": "Robert-Koch-Straße 2"
+      },
+      "industryCodeList": ["NACE2-20.20"],
+      "key": "supplier-os-org-baeko~48269",
+      "name": "Schülke & Mayr GmbH",
+      "website": "https://www.schuelke-mayr.com"
+    },
+    {
+      "address": {
+        "city": "Mönchengladbach",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "41238",
+        "street": "Erftstr. 85"
+      },
+      "industryCodeList": ["NACE2-82.92"],
+      "key": "supplier-os-org-baeko~48480",
+      "name": "Simons & Harren GmbH",
+      "website": "https://www.simons-harren.de"
+    },
+    {
+      "address": {
+        "city": "Backnang",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "71522",
+        "street": "Gaildorfer Straße 6"
+      },
+      "industryCodeList": ["NACE2-28.99"],
+      "key": "supplier-os-org-baeko~48520",
+      "name": "Soehnle Industrial Solutions GmbH",
+      "website": "https://www.soehnle-professional.com"
+    },
+    {
+      "address": {
+        "city": "Hamburg",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "20355",
+        "street": "Valentinskamp 88-90"
+      },
+      "industryCodeList": ["NACE2-46.38"],
+      "key": "supplier-os-org-baeko~49079",
+      "name": "Upfield Deutschland GmbH",
+      "website": "https://www.upfield.com"
+    },
+    {
+      "address": {
+        "city": "Ostbevern",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "48346",
+        "street": "Vossko-Allee 1"
+      },
+      "industryCodeList": ["NACE2-10.89"],
+      "key": "supplier-os-org-baeko~49245",
+      "name": "Vossko GmbH & Co. KG",
+      "website": "https://www.vossko.de"
+    },
+    {
+      "address": {
+        "city": "Leipheim",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "89340",
+        "street": "Bubesheimer Str.4"
+      },
+      "industryCodeList": ["NACE2-30.9"],
+      "key": "supplier-os-org-baeko~49367",
+      "name": "Wanzl Metallwarenfabrik GmbH",
+      "website": "https://www.wanzl.de"
+    },
+    {
+      "address": {
+        "city": "Rzepin",
+        "country": "PL",
+        "houseNumber": "",
+        "postalCode": "69-110",
+        "street": "ul. Fabryczna 13"
+      },
+      "industryCodeList": ["NACE2-31.09"],
+      "key": "supplier-os-org-begros~9900236",
+      "name": "Steinpol Central Services SP. z o.o.",
+      "website": "https://www.steinpol.com.pl"
+    },
+    {
+      "address": {
+        "city": "Marienheide",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "51709",
+        "street": "Eichendorffstr. 2"
+      },
+      "industryCodeList": ["NACE2-46.41"],
+      "key": "supplier-os-org-begros~9900849",
+      "name": "Indes Fuggerhaus Textil GmbH",
+      "website": "https://www.indesfuggerhaus.de"
+    },
+    {
+      "address": {
+        "city": "St. Peter / Rosenthal",
+        "country": "AT",
+        "houseNumber": "",
+        "postalCode": "9184",
+        "street": "Gewerbestr. 3"
+      },
+      "industryCodeList": ["NACE2-31.09"],
+      "key": "supplier-os-org-begros~9901334",
+      "name": "bhp - best home products Handels GmbH",
+      "website": "https://www.bhp-interior.com"
+    },
+    {
+      "address": {
+        "city": "Gütersloh",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "33330",
+        "street": "Herzebrocker Strasse 29"
+      },
+      "industryCodeList": ["NACE2-47.59"],
+      "key": "supplier-os-org-begros~9901456",
+      "name": "RRR Europe GmbH",
+      "website": "https://www.rrr-company.com"
+    },
+    {
+      "address": {
+        "city": "Kirchlengern",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "32278",
+        "street": "Klosterbauerschafter Str. 27"
+      },
+      "industryCodeList": ["NACE2-46.47"],
+      "key": "supplier-os-org-begros~9999224",
+      "name": "Meise Möbel GmbH & Co. KG",
+      "website": "https://www.meisemoebel.de"
+    },
+    {
+      "address": {
+        "city": "Michelau",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "96247",
+        "street": "Landwehrstr.14"
+      },
+      "industryCodeList": ["NACE2-31.09"],
+      "key": "supplier-os-org-begros~9999391",
+      "name": "Koinor Polstermöbel GmbH & Co. KG",
+      "website": "https://www.koinor.com"
+    },
+    {
+      "address": {
+        "city": "München",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "81739",
+        "street": "Carl-Wery-Straße 34"
+      },
+      "industryCodeList": ["NACE2-46.43"],
+      "key": "supplier-os-org-begros~9999508",
+      "name": "SEG Hausgeräte GmbH",
+      "website": "https://www.siemens-home.bsh-group.com"
+    },
+    {
+      "address": {
+        "city": "Ankum",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "49577",
+        "street": "Im Walsumer Esch 15 - 17"
+      },
+      "industryCodeList": ["NACE2-46.47"],
+      "key": "supplier-os-org-begros~9999549",
+      "name": "MWA aktuell Vertriebsgesellschaft mbH & Co.KG",
+      "website": "https://www.mwa-aktuell.com"
+    },
+    {
+      "address": {
+        "city": "Brilon",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "59929",
+        "street": "Hinterm Gallberg"
+      },
+      "industryCodeList": ["NACE2-31.02"],
+      "key": "supplier-os-org-begros~9999594",
+      "name": "Impuls Küchen GmbH",
+      "website": "https://www.impuls-kuechen.de"
+    },
+    {
+      "address": {
+        "city": "Duisburg",
+        "country": "DE",
+        "houseNumber": "",
+        "postalCode": "47198",
+        "street": "Eisenbahnstr. 70"
+      },
+      "industryCodeList": ["NACE2-13.92"],
+      "key": "supplier-os-org-begros~9999841",
+      "name": "Teba GmbH & Co. KG",
+      "website": "https://www.teba.de"
+    },
+    {
+      "address": {
+        "city": "Prato",
+        "country": "IT",
+        "houseNumber": "",
+        "postalCode": "59100",
+        "street": "Via Toscana 44-44/A46"
+      },
+      "industryCodeList": ["NACE2-13.91"],
+      "key": "supplier-os-org-bettybarclay~F1_203623",
+      "name": "Texapel SPA",
+      "website": "https://www.texapel.it"
+    },
+    {
+      "address": {
+        "city": "Thalheim",
+        "country": "DE",
+        "houseNumber": "23",
+        "postalCode": "91230",
+        "street": "Im Felsen"
+      },
+      "industryCodeList": ["NACE2-46.3"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9000596",
+      "name": "Bäckerei Laurer",
+      "website": "https://www.baeckerei-laurer.de"
+    },
+    {
+      "address": {
+        "city": "Petersaurach",
+        "country": "DE",
+        "houseNumber": "1",
+        "postalCode": "91580",
+        "street": "Langenheim"
+      },
+      "industryCodeList": ["NACE2-81.10"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9000721",
+      "name": "Busch & Brunner & Co. KG",
+      "website": "https://www.busch-brunner.de"
+    },
+    {
+      "address": {
+        "city": "Erlangen",
+        "country": "DE",
+        "houseNumber": "33",
+        "postalCode": "91052",
+        "street": "Äußere Brucker Straße"
+      },
+      "industryCodeList": ["NACE2-33.12", "NACE2-36.00"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9000884",
+      "name": "ERLANGER STADTWERKE AG",
+      "website": "https://www.estw.de"
+    },
+    {
+      "address": {
+        "city": "Erlangen",
+        "country": "DE",
+        "houseNumber": "60",
+        "postalCode": "91052",
+        "street": "Nürnberger Str."
+      },
+      "industryCodeList": ["NACE2-33.12", "NACE2-81.10"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9000924",
+      "name": "Frank Schlüssel- und Sicherheitstechnik GmbH & Co.KG",
+      "website": "https://www.sus-frank.de"
+    },
+    {
+      "address": {
+        "city": "Leonberg",
+        "country": "DE",
+        "houseNumber": "25",
+        "postalCode": "71229",
+        "street": "Reinhold-Vöster-Str."
+      },
+      "industryCodeList": ["NACE2-33.12", "NACE2-81.10"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9000965",
+      "name": "GEZE GMBH & CO.",
+      "website": "https://www.geze.com"
+    },
+    {
+      "address": {
+        "city": "Offenburg",
+        "country": "DE",
+        "houseNumber": "17",
+        "postalCode": "77656",
+        "street": "Robert-Bosch-Str."
+      },
+      "industryCodeList": ["NACE2-33.12"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001077",
+      "name": "HOBART GmbH",
+      "website": "https://www.hobart.de"
+    },
+    {
+      "address": {
+        "city": "München",
+        "country": "DE",
+        "houseNumber": "25",
+        "postalCode": "80992",
+        "street": "Riesstraße"
+      },
+      "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001081",
+      "name": "Hollister Incorporated",
+      "website": "https://www.hollister.com"
+    },
+    {
+      "address": {
+        "city": "St. Augustin",
+        "country": "DE",
+        "houseNumber": "39",
+        "postalCode": "53757",
+        "street": "Siegburger Straße"
+      },
+      "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001121",
+      "name": "INTERSURGICAL~~Beatmungs-Produkte GmbH",
+      "website": "https://www.intersurgical.de"
+    },
+    {
+      "address": {
+        "city": "Planegg",
+        "country": "DE",
+        "houseNumber": "1",
+        "postalCode": "82152",
+        "street": "Robert-Koch-Str."
+      },
+      "industryCodeList": ["NACE2-33.13"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001405",
+      "name": "Natus Europe GmbH",
+      "website": "https://www.natus.de"
+    },
+    {
+      "address": {
+        "city": "Hohenstadt",
+        "country": "DE",
+        "houseNumber": "17",
+        "postalCode": "91224",
+        "street": "Happurger Straße"
+      },
+      "industryCodeList": ["NACE2-33.12", "NACE2-81.10"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001446",
+      "name": "Baumarkt Hohenstadt GmbH & Co. KG",
+      "website": "https://www.obi.de"
+    },
+    {
+      "address": {
+        "city": "Ibbenbüren",
+        "country": "DE",
+        "houseNumber": "75",
+        "postalCode": "49479",
+        "street": "Gildestraße"
+      },
+      "industryCodeList": ["NACE2-21.20"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001491",
+      "name": "Pharmore",
+      "website": "https://www.pharmore.de"
+    },
+    {
+      "address": {
+        "city": "Erlangen",
+        "country": "DE",
+        "houseNumber": "18",
+        "postalCode": "91058",
+        "street": "Am Weichselgarten"
+      },
+      "industryCodeList": ["NACE2-81.10"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001608",
+      "name": "Schachermayer Deutschland GmbH",
+      "website": "https://www.schachermayer.de"
+    },
+    {
+      "address": {
+        "city": "Erlangen",
+        "country": "DE",
+        "houseNumber": "2",
+        "postalCode": "91058",
+        "street": "Siemenspromenade"
+      },
+      "industryCodeList": ["NACE2-32.50", "NACE2-46.46"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001694",
+      "name": "Siemens AG",
+      "website": "https://www.healthcare.siemens.de"
+    },
+    {
+      "address": {
+        "city": "Heroldsberg",
+        "country": "DE",
+        "houseNumber": "6",
+        "postalCode": "90562",
+        "street": "ZUM BLECH"
+      },
+      "industryCodeList": ["NACE2-33.12"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001897",
+      "name": "Wißmeier, Ing.-Büro GmbH",
+      "website": "https://www.ibw75.de"
+    },
+    {
+      "address": {
+        "city": "Neunkirchen",
+        "country": "DE",
+        "houseNumber": "1",
+        "postalCode": "66540",
+        "street": "In der Vogelbach"
+      },
+      "industryCodeList": ["NACE2-21.20"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9001937",
+      "name": "ASPEN Germany",
+      "website": "https://www.aspenpharma.eu"
+    },
+    {
+      "address": {
+        "city": "Stuttgart",
+        "country": "DE",
+        "houseNumber": "69",
+        "postalCode": "70565",
+        "street": "Heßbrühlstraße"
+      },
+      "industryCodeList": ["NACE2-18.11"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9002049",
+      "name": "Kohlhammer GmbH, Stuttgart",
+      "website": "https://www.kohlhammer.de"
+    },
+    {
+      "address": {
+        "city": "Berlin",
+        "country": "DE",
+        "houseNumber": "23",
+        "postalCode": "14195",
+        "street": "Ehrenbergstr."
+      },
+      "industryCodeList": ["NACE2-73.1"],
+      "key": "supplier-os-org-bezirksklinikenmfr~9002215",
+      "name": "rotthaus medical GmbH",
+      "website": "https://www.rotthaus.de"
+    }
+  ]
